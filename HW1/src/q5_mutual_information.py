@@ -17,11 +17,7 @@ def mutual_information(two_gram,one_gram):
     m_inf = 0.
     for key in two_gram:
         x,y = key.split()
-	raise NotImplementedError
-        '''
-        write your code here
-        use m.log(val,2) for computing logarithm
-        '''
+        m_inf += two_gram[key] * m.log((two_gram[key]/one_gram[y]/one_gram[x]),2)
     return m_inf
 
 def test_mutual_information():

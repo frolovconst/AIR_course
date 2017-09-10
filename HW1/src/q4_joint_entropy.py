@@ -11,15 +11,12 @@ always test your code
 def joint_entropy(two_gram):
     j_ent = 0.
     for key in two_gram:
-	raise NotImplementedError
-        '''
-        write your code here
-        use m.log(val,2) for computing logarithm
-        '''
+        j_ent -= two_gram[key]*m.log(two_gram[key],2)
     return j_ent
 
 def test_joint_entropy():
     raise NotImplementedError
+    return
 
 if __name__ == "__main__":
     test_joint_entropy()

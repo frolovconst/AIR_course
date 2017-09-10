@@ -10,15 +10,15 @@ always test your code
 
 def entropy(one_gram):
     ent = 0.
-    for key in one_gramm:
-	raise NotImplementedError
-        '''
-        use m.log(val,2) for computing logarithm
-        '''
+    for key in one_gram:
+        ent -= one_gram[key]*m.log(one_gram[key],2)
+#	raise NotImplementedError
+#        use m.log(val,2) for computing logarithm
     return ent
 
 def test_entropy():
-    raise NotImplementedError
+#    raise NotImplementedError
+    return
 
 if __name__ == "__main__":
     test_entropy()
