@@ -1,358 +1,66 @@
 
 Experience
-Deputy Executive Director
-January 1991  -  Present
-
-
-Experience
-Principal Engineer at Google
-June 2005  -  Present
-Connectivity (2013 onwards) - 
-https://blog.google/topics/internet-access/partnering-toward-next-generation-mobile-networks/
-https://youtube-eng.googleblog.com/2016/04/announcing-mobile-data-plan-api.html
-https://policybythenumbers.googleblog.com/2015/09/information-sharing-for-more-efficient.html
-http://onosproject.org/2016/07/26/on-lab-and-the-linux-foundation-form-cord-project-to-define-the-future-of-
-access/
-https://blog.google/topics/internet-access/bringing-the-internet-to-more-indians/
-http://www.gadgetsnow.com/sundar-pichai-at-iit-kharagpur-toi-travels-with-google-ceo-sundar-pichai-to-iit-
-kharagpur/liveblog/56347635.cms#clschng56351587
-Page 
-2
-Software Defined Networking/Network Virtualization (2011 onwards) - 
-https://www.theregister.co.uk/2017/04/04/google_serves_espresso_linkups_for_cloud/
-https://blog.google/topics/google-cloud/making-google-cloud-faster-more-available-and-cost-effective-
-extending-sdn-public-internet-espresso/
-https://blog.google/topics/internet-access/partnering-toward-next-generation-mobile-networks/
-Content Delivery (2005 - 2014) - 
-https://peering.google.com/#/infrastructure
-http://www.emmys.com/news/press-releases/winners-announced-65th-primetime-emmy-engineering-awards
-
-Experience
-Architect at Cadence Design Systems
-August 2012  -  Present
-R&D Engineer at Synopsys
-April 2012  -  August 2012 
-(5 months)
-Supported QCPŽ during ramp down.
-Sr. Member of Consulting Staff at Magma Design Automation, Inc.
-June 2006  -  March 2012 
-(5 years 10 months)
-Principal software architect of MAGMA™s next-generation parasitic extraction tool QCPŽ.  Defined and
- implemented the majority of the underlying data structures, geometric processing algorithms, parallelization
- strategies, and parasitic modeling code. Responsible for the continued performance improvements with
- respect to runtime, scalability and memory efficiency, as well as the implementation of and improvements to
- the modeling code and the addition of new features as requested by our customers.
-Technologies: C++, STL, GDB,  GPROF, SunStudio, Purify, Coverity, ClearCase, Linux
-Staff Engineer at Sun Microsystems, Inc.
-July 2000  -  June 2006 
-(6 years)
-- Lead a team of 3 to 5 developers in the development, implementation, and qualification of a patternbased
- 3D full chip parasitic interconnect extraction engine similar to Cadence/Simplex Fire & Ice. Defined the
-Page 
-2
- overall server/client architecture for parallel execution, and specified the external interfaces and XML
- broadcast protocols. A paper describing the architecture was submitted to DAC 2006. Was responsible for
- the project planning and milestones. In particular designed and implemented the capacitance extraction
- module including a novel extensible pattern matching framework. Correlated the capacitance module
- against QuickCap and Simplex. Helped in the development of a Raphaelbased flow used for the automatic
- generation of the capacitance lookup tables used in the patternbased extractor.
-- Implemented a C++ based GDSII scanner featuring a generic query language. This tool is used in many
- extraction and physical design verification flows at Sun.
-- Maintained, supported, and further developed a Simplex based RC extraction flow. In particular
- implemented a mixed extraction option, which for the first time allows parts of the design to be extracted
- down to the transistor level while others remain grayboxed. Contributed fundamental building blocks to
- the flow rewrite and helped in leading the team towards the development of a much more extensible and
- maintainable code base.
-- Defined, implemented, documented, and maintained an incremental timing tool. This Perl based tool
- utilized wire models for incremental capacitance and resistance extraction and timing reruns. The tool was
- used for CTOs during tape out mode.
-- Implemented a poly resistance ERC rule check flow based on the Simplex Fire resistance extraction tool. A
- patent application was filed in 2001.
-3D TCAD Development Engineer at Silvaco Data Systems
-October 1997  -  July 2000 
-(2 years 10 months)
-- Implementation of physicsbased models for backend processing, including etching, deposition, and
- oxidation into Silvaco's 3D process simulator.
-- Code maintenance of parasitic interconnect extraction tool based on a 3D finite element field solver.
-- Development, implementation, and maintenance of the regression tests used in both the process and
- interconnect simulators.
-
-Experience
-Illustrator
-September 2016  -  Present
-Create weekly illustrations for the Boston public radio show Open Source with Christopher Lydon.
- Illustrations range from on-site drawings to conceptual, editorial illustrations and can be viewed at http://
-www.coyneworks.com/illustration/#/editorial/ and http://www.coyneworks.com/illustration/#/live-drawing/.
- Also contribute cultural reviews to the weekly newsletter and help manage the social media accounts.
-Writer/Illustrator
-2013  -  Present
-Work with a variety of individual and corporate clients on projects including book illustration, editorial
- writing and illustration, portraits/personal commissions, and graphic design work. For more information,
- visit www.Coyneworks.com.
-Content Writer at Gradesavers
-2013  -  2014 
-(2 years)
-Researched and wrote full-length study guides on graphic novels, nonfiction work, and poetry collections.
-Research Assistant at The Forsyth Institute
-June 2011  -  August 2013 
-(2 years 3 months)
-Assistant to Dr. Toshihisa Kawai, DDS, PhD, at the Forsyth Institute, a dental research clinic and laboratory
- affiliated with Harvard School of Dental Medicine.
-Responsibilities: editing scientific manuscripts and liaising with scientific journals to streamline publication;
- assisting visiting Japanese researchers with immigration/transition into Cambridge and the laboratory;
- managing the day-to-day operation of the laboratory; translating documents/correspondence from JP->EN;
- assisting Japanese researchers with their English language education.
-Resident Director
-May 2010  -  August 2010 
-(4 months)
--Served as the in-country Resident Director of a Japanese language program in Kyoto, Japan.  
--Worked with American college and graduate students who were the recipients of full scholarships from the
- State Department to study Japanese in an intensive two-month program.  
-Page 
-2
--Arranged weekly cultural excursions to areas of interest in and around Kyoto, as well as a week-long
- countrywide tour including Hiroshima, Yokohama, and Tokyo.  
--Assisted students with various aspects of cultural adjustment and language learning while working closely
- with local staff at Doshisha University.
-Language Teacher
-August 2007  -  August 2009 
-(2 years 1 month)
--Instructed approximately 2,000 junior high school and 500 kindergarten students in English language and
- conversation.  
--Organized and implemented original and effective lesson plans, often incorporating current international
- news events to increase students™ global awareness. 
--Coordinated promotional events for the city of Kurobe.
-*Honors: 2009 Toyama Honorary Friendly Envoy Award.  Awarded by the Toyama Prefectural Government
- in July, 2009, for promotion of tourism in Toyama through international festivals.
-Public Relations Assistant at Portland Museum of Art
-May 2006  -  August 2006 
-(4 months)
--Compiled press releases about new exhibits
--Distributed information to museum members and potential donors
--Promoted exhibits to the press
-Assistant to the Professor of Religion
-January 2006  -  April 2006 
-(4 months)
-Preparing coursework weekly; writing up exams; coordinating visits to local sites
-
-Experience
-Senior Software Engineer at Google
-2007  -  Present
-Software Engineer at Google
-July 2007  -  December 2009 
-(2 years 6 months)
-
-Experience
-Eng Lead in Video Advertising
-2015  -  Present
-Working on improving the infrastructure and quality of video advertising on YouTube!
-Software Engineer on Android at Google
-2013  -  2015 
-(3 years)
-Making the Google Search App on Android a better experience, and eventually making our whole phone
- much smarter by leveraging Google intelligence. 
-AdMob Quality at Google
-January 2011  -  2013 
-(3 years)
-Focused on improving the relevance of ads in mobile apps by building the next generation user models, ads
- auction, pricing and budgeting system. Major launches included:
- 
-- Launch of second price auction on AdMob: http://googlemobileads.blogspot.com/2012/02/admob-auction-
-enhancements.html
-- Smoothening budget constrained advertiser spend through the day leading to better auction competition and
- gains in advertiser welfare. 
-- Selecting higher quality ads for budget constrained advertisers giving major improvements in advertiser
- ROI and user experience. 
-- Improved click prediction models trained via large scale machine learning infrastructure leading to
- significant revenue gains.
-Search Quality
-August 2005  -  August 2008 
-(3 years 1 month)
-- Significantly improved search quality of Google Video and YouTube by analyzing user click data,
- experimenting with new ranking functions, preventing click spam, and balancing fresh video content against
- established high quality videos.
-Page 
-2
-- Launched search feature improvements on YouTube by adding query suggestions, query reduction to make
- long queries more effective and geo search giving users ability to find videos by location.
-- Worked on next generation system for monitoring Google services running on large clusters of machines by
- creating engineering consoles and automating the storage of long-term monitoring data.
-
-Experience
-Associate Partner, Insights Director at The PARAGRAPH Project
-August 2010  -  Present
-Insights creatively pursued, applied and packaged.
-Research Assistant at Duke University
-December 2009  -  August 2010 
-(9 months)
-Assisted with Title VI and terrorism-related grants for the Center for South Asia Studies.
-Teaching Assistant at Duke University
-January 2010  -  May 2010 
-(5 months)
-Course: "Advertising and Society"
-Page 
-2
-Department of Cultural Anthropology
-Research Assistant at Harvard Kennedy School of Government
-May 2007  -  August 2009 
-(2 years 4 months)
-Head Course Assistant in Spring and Fall 2007 for Kennedy School of Government / Divinity School course,
- "Religion and International Affairs." 
-Based at the Belfer Center for Science and International Affairs.  Main tasks included editing and helping to
- write publications; compiling syllabi; acting as conference rapporteur; acting as Head Course Assistant in
- Spring and Fall 2008; and assisting with Initiative on Religion in International Affairs and with article on
- religion and violence.
-Research Assistant
-September 2006  -  August 2007 
-(1 year)
-Based at Harvard's Center for Middle Eastern Studies.  Completed research for the Center's Islam in the
- West program, editing and contributing to its book project: Encyclopedia of Islam in the United States
- (Greenwood Press, 2007).
-Teaching Assistant
-2005  -  2006 
-(2 years)
-Teaching Assistant for courses in Eastern Religions from June to August in 2005 and 2006.  The Duke Talent
- Identification Program (TIP) is a summer academic/residential program for gifted youth.  Worked with
- teenagers aged 14-16.
-Co-Editor of Nation and World
-December 2003  -  May 2004 
-(6 months)
-Co-edited the international page of the University of Virginia's student-run newspaper, The Cavalier Daily. 
- Elected position.
-
-Experience
-Audit Partner
-December 2011  -  Present
-Performing independent financial and compliance audits. If we can ensure a pleasant audit experience with
- efficient, educational results, we have accomplished our goal.
-Audit Supervisor at Hansen, Barnett & Maxwell
-September 2005  -  January 2012 
-(6 years 5 months)
-Auditor
-April 2003  -  May 2005 
-(2 years 2 months)
-
-Experience
-Product Management/Engineering Exec
-2010  -  Present
-Vice President Marketing at Azingo
-January 2007  -  March 2010 
-(3 years 3 months)
-Executive Council Member, Azingo at LiMo Foundation
-2007  -  March 2010 
-(3 years 3 months)
-Vice President Marketing and Business Development
-November 2001  -  January 2007 
-(5 years 3 months)
-Co-Founder, Managing Venture Partner
-2000  -  2004 
-(5 years)
-Vice President Marketing and Business Development
-1994  -  1998 
-(5 years)
-Director Publishing Business Unit
-1992  -  1996 
-(5 years)
-Manager of Product Management at Rolm / IBM / Siemens
-1984  -  1992 
-(9 years)
-
-Experience
-Senior Staff Software Engineer & Tech Lead Manager at Google
-December 2014  -  Present
-Manage a team to build content understanding infrastructure
-Manage a team to produce contents used by Google Search
-Lead a team to build query understanding infrastructure
-Staff Software Engineer at Google
-July 2007  -  November 2014 
-(7 years 5 months)
-
-Experience
-Senior Engineering Director at Google
-March 2014  -  Present
-Protect Google's end users. Protect Google's core business.  Rethink AdWords, AdX, and DBM policy
- enforcement from the ground up.
-Engineering Director at Facebook
-August 2013  -  March 2014 
-(8 months)
-Worked on insights, measurement, and reporting.
-Engineering Director at Google
-August 2005  -  July 2013 
-(8 years)
-- DoubleClick Search - April 2010 to July 2013 - eng mgr and then director
-- AdWords Opportunities tab - August 2009 to October 2010 - eng mgr
-- TV Ads - July 2007 to April 2009 - eng mgr
-- Google Apps - August 2005 to August 2009 - software engineer and then eng mgr
-Freelancer
-2001  -  2007 
-(7 years)
-Senior Software Engineer at EarthLink, Inc.
-May 2003  -  August 2005 
-(2 years 4 months)
-FE engineer
-Software Engineer
-July 2002  -  March 2003 
-(9 months)
-FE/BE engineer
-Principal Engineer
-August 2000  -  August 2001 
-(1 year 1 month)
-Member of awesome 7 person eng team
-Software Engineer at Intuit, Inc.
-Page 
-2
-1998  -  2000 
-(3 years)
-FE engineer on web-based finance app
-Software Engineer at Oracle Corporation
-1996  -  1998 
-(3 years)
-UI toolkit library developer
-Software Engineer Intern at IBM
-June 1995  -  September 1995 
-(4 months)
-Software Engineer Intern at NCR
-1993  -  1994 
-(2 years)
-
-Experience
-Principal Software Engineer at Charter Communications
+Director of Engineering at Facebook
 May 2016  -  Present
-Moved to Charter with their acquisition of Time Warner Cable. Now serving as lead developer for team
- that is developing a video consumption application for Samsung TV using HTML, JavaScript, Backbone,
- underscore and jQuery.
-Principle Software Engineer at Time Warner Cable
-2003  -  May 2016 
-(13 years 5 months)
-Software engineer with Time Warner Cable. Contributed to development of Java OCAP set top box software,
- and development of Android and iOS mobile applications. 
-Proposed and helped to organize an annual 3 day internal developer's conference attended by over 200 Time
- Warner Cable engineers. This conference occurred in 2013, 2014 and 2015.
-Contract Software Engineer at TVG Network
-June 2000  -  March 2003 
-(2 years 10 months)
-Developed interactive television application for wagering on horse races for Dish Network satellite TV
- receivers using OpenTV middleware.
-Senior Software Engineer
-May 1996  -  May 2000 
-(4 years 1 month)
-Worked on real time television master control broadcast automation system. Developed COM framework for
- next generation of broadcast automation systems. Developed embedded web server to provide remote control
- of broadcast automation system.
-Senior Software Engineer
-September 1992  -  April 1996 
-(3 years 8 months)
-Worked on cable settop box control systems and data management for on-screen television guides, using C, C
-++, RDB and Oracle databases on VMS and Unix systems.
-Senior Scientist
-September 1984  -  September 1992 
-(8 years 1 month)
+Sr. Director, Engineering at Cloudera
+February 2011  -  April 2016 
+(5 years 3 months)
+I was responsible for all core engineering at Cloudera, where I led a group of 100+ brilliant engineers
+ building the industry™s leading big data platform.
+Sr. Engineering Manager/Principal Development Manager at Yahoo! and Microsoft
+September 2007  -  February 2011 
+(3 years 6 months)
+I led the Yahoo!'s search ad A/B testing infrastructure, allowing for rapid experimentation for 30% of
+ all Yahoo! search traffic.  Working with a group of amazing scientists, I was responsible for the search
+ optimization frameworks in the ad-serving stack. 
+Prior to that, I was part of a small group of early engineering leaders responsible for building out Yahoo™s ad
+ tech team at Bangalore, India. Together, we helped build the team from scratch to manage Yahoo!™s search
+ advertising platform (Panama), responsible for billions of dollars in search ads revenue. I was personally
+ responsible for all of Yahoo's external search advertising API.
+I eventually moved to Microsoft Bing as part of the Yahoo!-Microsoft Search deal, where I helped transition
+ Yahoo™s search ads engineering teams and products to Bing.
+Consultant
+October 2005  -  September 2007 
+(2 years)
+I spent time in India helping startups build products targeted towards broader social impact. This included
+ a project with the Government of Mumbai to build an early warning system to monitor rainfall and alert
+ citizens for flood disaster relief.
+Senior Software Engineer at Fujitsu Network Communications
+September 1998  -  October 2005 
+(7 years 2 months)
+Senior Software Engineer at Fujitsu, and member of a team responsible for Fujitsu's Network Management
+ System.
 Page 
 2
-Performed testing of water and soil samples for environment pollutants using GC/MS (Gas Chromatography /
- Mass Spectromity). Developed FORTRAN applications to automate process of GC/MS data. Developed
- application that used a least-squares pattern matching approach to identify mixtures of PCBs from gas
- chronography data.
+Software Engineer (Intern) at AT&T Campuswide Solutions, Phoenix, AZ
+December 1996  -  December 1997 
+(1 year 1 month)
+As a research intern, I learned about and contributed to smart card technologies for university campuses
+ worldwide.
+Software Engineer at Philips, Singapore
+May 1995  -  August 1996 
+(1 year 4 months)
+Engineer in the Philips TV division where I helped build embedded software for high end television sets.
+
+Experience
+CEO
+Page 
+2
+Danny LeBlanc
+CEO at Somerville Community Corporation
+Contact Danny on LinkedIn
+
+Experience
+Partner at HGG Advisors
+October 2015  -  Present
+Finance at Elevate Practices
+October 2015  -  Present
+Audit Manager at HintonBurdick CPAs & Advisors
+January 2014  -  October 2015 
+(1 year 10 months)
+Audit Manager at Deloitte & Touche
+September 2008  -  January 2014 
+(5 years 5 months)
 
 Experience
 Staff Software Engineer at Google
@@ -381,14 +89,292 @@ Outdoors Highlights:
 Page 
 2
 
+Experience
+Vice President at Airbnb
+May 2016  -  Present
+Building Airbnb China.
+Engineering Director at Facebook
+December 2009  -  April 2016 
+(6 years 5 months)
+Built Facebook News Feed Ads from scratch. It accounts for 80+% of Facebook revenue.
+Software Engineer at Google Inc
+June 2005  -  December 2009 
+(4 years 7 months)
+[January 2008 - December 2009] Worked on Google Adsense, focusing on targeting quality optimization.
+[June 2005 - December 2007] Woked on Google Checkout, focusing on transaction/refund/chargeback
+ processing.
+Received 4 peer bonuses (nominated by co-workers) for good work and collaboration.
+
+Experience
+Senior Software Engineer at Google
+2007  -  Present
+Software Engineer at Google
+July 2007  -  December 2009 
+(2 years 6 months)
+
+Experience
+Principal
+September 2013  -  Present
+Project Consultant: Boston Special Education Transition Project - B-SET for Career Network
+January 2014  -  Present
+Directed planning project for Massachusetts Advocates for Children to develop recommendations to
+ improve services for Boston youth with disabilities in transition from high school to work or post-secondary
+ education. Organized and managed cross sectoral 70 organization member  task force representing the
+ public schools, higher education and skills training programs, businesses, community based disability
+ service organizations, state agencies, youth development agencies, funders, organized labor, advocacy and
+ intermediary organizations. Co-authored action plan and recommendations released in October 2015. 
+Project Consultant
+March 2014  -  July 2014 
+(5 months)
+Conducted needs assessment at Lynn Community Health Center and Union Hospital as part of Healthcare
+ Workforce Transformation Fund grant. Goal was to provide a training program for frontline workers, which
+ would allow them to gain skills in effectively managing interactions with patients with behavioral issues and
+ others that pose potential safety threats
+Career Center Systems Manager at Boston Private Industry Council
+October 1996  -  July 2013 
+(16 years 10 months)
+Oversaw operations of three career centers in Boston serving over 25,000 customers by June 30, 2013.
+ Developed regional approach to and provided technical assistance in continuous quality improvement.
+ Developed and conducted all business and job seeker customer satisfaction activities including focus groups,
+ interviews and surveys. Analyzed service utilization, performance trends and outcomes and reported to the
+ PIC Board and subcommittees, state and federal government. Conducted annual review process.Served on
+ statewide work groups on various policy and operational topics including initial development of statewide
+ MIS and improvements in business services data tracking. Facilitated system integration work groups and
+ local and regional levels and convened several communities of practice among career center staff. Numerous
+ presentations to visitors from U.S and other countries as well as at state and national conferences.
+Quality Improvement Specialist
+August 1994  -  September 1995 
+(1 year 2 months)
+Page 
+3
+Responsible for developing and implementing the principles and practices of quality management to effect
+ large systems improvement for project client: Massachusetts Department of Public Health, Bureau of
+ Substance Abuse Services.
+- Conducted assessments of processes and performance at substance abuse treatment programs
+- Identified opportunities for improvement, provided technical assistance and evaluated impact
+Director, Organization Development & Training
+1990  -  1993 
+(4 years)
+Responsible for conception and implementation of a range of service excellence and CQI programs for 1,200
+ member workforce. Developed and implemented employee recognition programs. Provided training and
+ strategic departmental consultation to increase effectiveness of service delivery in a variety of departments
+ ranging from nursing to environmental services.
+Special Projects Consultation at Tufts Medical Center
+1987  -  1989 
+(3 years)
+Co-Founder
+April 1977  -  June 1983 
+(6 years 3 months)
+Shared responsibility for financial, philosophic and programmatic integrity of the first batterer intervention
+ agency in the United States. I served in nearly every role at the organization including development,
+ counseling and training coordinator and program developer. Emerge used a socio-political analysis of
+ battering to pioneer a behavioral approach to treatment that set the standard for the field and is widely
+ practiced. I also served as producer and fundraiser for film about Emerge, "To Have and To Hold."
+
+
+Experience
+Staff Software Engineer at Google
+August 2016  -  Present
+Cloud Commerce/Service Platform
+Revamping the current multi-Cloud Commerce Platform, which powers billions dollar business for our
+ partners on AWS/Azure/GCP/Softlayer etc, to next generation on top of Google Cloud
+Staff Software Engineer at Google
+April 2014  -  August 2016 
+(2 years 5 months)
+Build cutting-edge Google scale shared data infrastructure. I worked/am working on:
+- Performance and efficiency across the stack
+- Generic BI solution for all Google DisplayAds products
+- Distributed SQL database and query engine
+- Data management and datawarehouse
+- Continuous data streams processing
+I'm also interested in could computation, cluster management, data visualization and internal productivity
+ tools.
+Senior Software Engineer at Google NewYork
+July 2008  -  March 2014 
+(5 years 9 months)
+Working for various projects in online advertising. Focus on Display Ad Platform from 2010:
+* Biggest Ad Exchange Platform
+* Yield Management For Sellside
+* Next Generation Display Ads Data Infrastructure 
+* Data Analysis / Data Visualization
+Software Engineer Intern at Google
+March 2008  -  May 2008 
+(3 months)
+Worked on advertiser related projects.
+Page 
+2
+Software Engineer Intern at Google
+July 2007  -  September 2007 
+(3 months)
+From July. 2007 to Sep. 2007 and From Mar. 2008 and May. 2008
+Working for online advertising related projects.
+
+Experience
+Software Engineer at Google
+September 2012  -  Present
+I work as a software engineer at Google to make augmented reality easy.
+I used to develop health and fitness insights in Google Fit by crunching numbers with MapReduce and
+ building end-to-end features on both Android and the web.
+I used to work in Image Search.
+Software Engineer at Jet Propulsion Laboratory
+July 2008  -  August 2012 
+(4 years 2 months)
+I worked as a software engineer at the Jet Propulsion Laboratory (JPL) to develop operations software for
+ NASA missions and research robots. I investigated new technologies (both hardware and software) to
+ enhance the user interface experience. This included multi-touch displays, large immersive displays, and
+ various types of game controllers.
+I was the lead engineer of our 270-degree cylindrical display.  Our immersive display system addressed
+ visualization problems during operations, for example correctly estimating the size and relative positions
+ of objects from ATHLETE™s environment. The display surrounded the viewer with panoramic imagery to
+ provide situational awareness during operations.
+http://www.youtube.com/watch?v=lcwziICVMKA
+Software Engineer Intern at Jet Propulsion Lab - Cal Tech (NASA)
+June 2003  -  August 2007 
+(4 years 3 months)
+Page 
+2
+
+Experience
+Partner
+November 2012  -  Present
+President
+May 2011  -  Present
+Partner
+February 2003  -  May 2011 
+(8 years 4 months)
 
 Experience
 Engineering Director at Facebook
-2014  -  Present
-Lead Ads Delivery engineering group including Ads Infrastructure, Ads Ranking and Optimization, Ads
- Targeting, Market Dynamics and Delivery Insights for ads on Facebook, Instagram and Audience Network
-Software Engineer at Facebook
-2009  -  Present
+December 2009  -  Present
+I support the following teams:
+Ł UI Infrastructure for Web, iOS, and Android
+Ł Design Tools
+Ł Accessibility 
+Ł Relay and JS Performance Infrastructure
+Ł Marketing/Brand Engineering
+I also own the recruiting pipeline for front-end engineers across all platforms.
+Product Designer at Facebook
+June 2007  -  February 2010 
+(2 years 9 months)
+I was the designer on Growth in 2007 and the designer on Ads from 2008 until 2010.  I designed many of
+ Facebook's early ad units and ad management interfaces.
+Products that I designed and implemented:
+Ł New user registration 
+Ł Friend finder 
+Ł Email campaigns
+Ł Ads creation
+Ł Ads management
+Ł Ad units
+Software Engineering Intern at Intuit
+June 2006  -  June 2007 
+(1 year 1 month)
+Quickbooks UI
+Software Engineering Intern at LuraTech GmbH
+June 2005  -  September 2005 
+(4 months)
+Built a Windows printer driver.
+Page 
+2
+
+Experience
+Software Engineer at IGT
+August 2012  -  Present
+Software Engineer at Cantor Gaming
+August 2010  -  August 2012 
+(2 years 1 month)
+Mobile game development.
+Technology/Language: C++, C#, OpenGL ES, Android NDK
+Ł Responsible for development and support of company™s Windows mobile & PC Gaming application.
+Ł Responsible for porting of company's Gaming application to Android using NDK.
+Research Intern at Boston Scientific
+May 2009  -  July 2009 
+(3 months)
+Technology/Language: C#, .NET CF 3.5, Python, Windows Mobile 6.1
+Project Responsibilities:
+Ł Add a new feature to existing Desktop Python application to collect data from and program medical device.
+Ł Identify mobile platform & mobile with USB host functionality.
+Ł Get the mobile phone to recognize and communicate with USB CC1111 device through serial port.
+Ł Develop mobile application to collect data from and program the device through serial port.
+Ł Preparing low level analysis & design documents, and code documentation.
+Software Engineer at Azingo Inc. (formerly Celunite Inc.)
+December 2006  -  August 2008 
+(1 year 9 months)
+Technology/Language: C, GObject/Glib Framework, Gtk+
+Platform: Ubuntu 6.10 Linux Kernel (2.6.14) x86 and ARM scratchbox, TI OMAP-850 dual processor board.
+Project:
+Responsible for developing UI framework for Azingo Linux mobile platform to facilitate application
+ developers to develop highly optimized high performance mobile applications.
+Page 
+2
+
+Experience
+SDE II Amazon Video at Amazon
+August 2016  -  Present
+Software Programmer as a Consultant at Seachange Intl
+June 2015  -  August 2016 
+(1 year 3 months)
+Client Seachange International: Multimedia Middleware Solutions
+Ł Implemented and developed a Prototype for MP4 parser in C++.
+Ł Captured requirements to support Media source extension-MSE for HTML5
+Ł Implemented Unit Test module.
+Ł Implemented module to support encrypted recordings in Set-top-box
+Ł Used NAGRA DRM to manage credentials by interacting with the secure chipset driver.
+Ł Configured DMA and aligned buffer for accurate transformation
+Member of Technical Staff at AMD
+June 2013  -  June 2015 
+(2 years 1 month)
+Audio vertical Design:
+High level design of various software components
+Implementation of the changes that are expected in the newer Android release KitKat. 
+Page 
+2
+Presenting the design in the design summit organized at product level to various stake holders involving
+ Android architects, Fellows, Directors
+Coming out with all the tools required for the subsystem
+GIT infrastructure modeling for Audio and guidance for team on development.
+C++ object oriented implementation to realize Open-Max standard interface
+Senior system Engineer at ST-Ericsson
+September 2009  -  June 2013 
+(3 years 10 months)
+Android HAL porting for audio subsystem
 Software Engineer
-2001  -  2009 
-(9 years)
+June 2009  -  September 2009 
+(4 months)
+Prototyped Video Conferencing product by offloading x264 codec in hardware
+Engineer at Freescale Semiconductor
+April 2006  -  May 2009 
+(3 years 2 months)
+Developed algorithms for codecs including mp3,aac,sbc and amr.
+Patented one of the huffman decoding algorithm.(http://www.google.com/patents/US7773003)
+Made use of ARM11 assembly level programming including SIMD to achieve efficiency.
+Software Engineer at Aricent
+January 2005  -  May 2006 
+(1 year 5 months)
+Previously known as Flextronics Software Systems. Designed and implemented a logging module for all
+ software subsystem. Required various inputs from software stack stakeholders to complete the
+requirements. The implementation was done in C programming
+Assistant System Engineer at Tata Consultancy Services
+June 2005  -  January 2006 
+(8 months)
+Maintained different large scale customer deployed website. Implemented various solutions in Java involving
+ object change for an issue in order and
+delivery.
+
+Experience
+Software Engineer at Google
+2003  -  Present
+
+Experience
+Senior Staff Software Engineer / Engineering Manager at Google
+May 2013  -  Present
+Tech Lead manager for Image Search at Google. I strive to make Image Search more useful, inspiring and fun
+ for users.
+Senior Software Engineer / Tech Lead at Google
+September 2009  -  April 2013 
+(3 years 8 months)
+I was the Tech Lead of backend Infrastructure, Search and Recommendations for a social network project at
+ Google.
+Software Engineer at Google
+July 2007  -  August 2009 
+(2 years 2 months)
+I was a software engineer working on data storage, annotation and search of Product Search at Google. 

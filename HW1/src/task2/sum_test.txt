@@ -3,95 +3,54 @@ Summary
 N/A
 
 Summary
-M.B.T.A. 1990- present. 27 years
-2014- present .Superintendent Maintenance of Way (Rapid Transit Lines) Red, Orange, Blue lines and
- Systemwide track production 
-2007-2015 Supervisor Maintenance of Way
-( Orange Line)
-1997-2007 Section Foreman ( Track inspection)
-1990-1997- laborer, trackmen, Trackwalker ,
-Foreman.
+N/A
+
+Summary
+Experienced Finance with a demonstrated history of working in the dental accounting industry. Skilled in cloud
+ based accounting, financial statements, small business entity structuring, and tax. Strong finance professional
+ with a MAcc from Southern Utah University.
+
+Summary
+N/A
+
+Summary
+I built Facebook News Feed Ads from its day 1.  Now I'm building Airbnb China.
+
+Summary
+N/A
+
+Summary
+Key Accomplishments
+-      As project consultant to the "B-SET for Career Network" in Boston, a project of Massachusetts Advocates
+ for Children, developed, designed and implemented a collective impact policy and practice collaboration
+ among nearly 60 member organizations including Boston Public Schools, disability service organizations at
+ local and state levels, workforce development intermediaries, youth development agencies, business partners,
+ organized labor and the City of Boston.
+- Developed, instituted, oversaw and monitored quality improvement processes and capacity building
+ at Boston™s three one-stop career centers during a period of volume growth from 11,000 to over 25,000
+ customers. Despite volume growth and budget and staffing decreases, rates of customer satisfaction ranged
+ between 90% and 96%. 
+- Co-founded Emerge, the first batterer intervention agency in the country. Emerge continues to serve as a
+ model for such programs.
+For over 20 years I have been involved in organization development, change management and quality
+ improvement in both the private and public sectors in settings ranging from grassroots organizations to
+ hospitals and other non-profits. Prior to that I was trained as a clinical psychologist, completing my doctorate in
+ 1990. I was a founder of Emerge, the first domestic violence batterer intervention program in the country.
+For nearly 17 years I worked at the Boston Private Industry Council on the development and implementation of
+ workforce development initiatives. My work concentrated on the roll out of the first One Stop Career Centers
+ in the country and the continuing evaluation and improvement of the products and services they offered.
+Specialties
+Organization and systems development
+Institutional culture management
+Quality improvement
+Change management
+Instructional design & delivery
+Program development & evaluation
+Communications
 Page 
 2
-Joe Anderson
-M.B.T.A. Superintendent Maintenance of Way ( Rapid Transit Lines)
-Contact Joe on LinkedIn
-
-Summary
-Designed and implemented the first Google Global Cache (GGC, a CDN platform embedded in operator
- networks). Over time, led Google™s Content Delivery Network (CDN) efforts including GGC and oversaw
- the CDN grow its scale several orders of magnitude into one of the largest in the world with GGC deployed
- today by several hundreds of carriers globally. Instrumental in bringing Software Defined Networking (SDN)
- and Network Function Virtualization (NFV) concepts to Google™s traffic engineering and edge networking
- infrastructure. Leading projects over the last few years that enable wireless operators to run their networks
- more efficiently. 
-I'm also on the board of the open-source project CORD which aims to bring datacenter economics and cloud
- agility to the Telco Central Office. I hold more than a dozen patents and conference papers filed/granted/
-published. My closest potential shot at stardom though was when I went to Los Angeles in 2013 as part of the
- team that collected the 65th Primetime Emmy Engineering Award for YouTube; but a couple of years later I
- am still at Google :P
-Domain Expertise: Connectivity, Internet access, Wireless, CDN, Content Distribution, SDN, Wireless
- Performance, Mapping, TCP, Caching, DNS, Load Balancing, Large-scale Distributed Systems, Networking,
- Internet Measurements, Routing.
-Functions: Engineering lead. Centrally involved in product, strategy, project management and partnerships.
-
-Summary
-Over 15 years of experience designing and implementing software in the field of Electronic Design Automation
- (EDA).
-Specialties:
-- Software design and implementation of high performance technical compute applications.
-- Parallel programming in both multithreaded and distributed environments.
-- Performance analysis and optimization with respect to runtime and memory footprint.
-- Extensive knowledge of EDA algorithms in the field of RC parasitic extraction.
-Goals:
-- To make significant contributions in a fast-paced, customer-oriented work environment.
-
-Summary
-N/A
-
-Summary
-N/A
-
-Summary
-N/A
-
-Summary
-We are, at times, a strange brew. But this is what works for us Š and inevitably, it works for our clients. The
- types of people who work at PARAGRAPH are strategists, anthropologists, artists, engineers, entrepreneurs,
- negotiators, students and builders. Herein lies our value. We are able to look at problems from many different
- perspectives and apply this diverse point of view to solutions for our clients.
-When we respond to a client™s brief we don™t just think about the research they want to do. We think about
- their business and marketing objectives. Then we step back and think: how can we help them get there? Often,
- the answer is to blend the client™s proposed methodology with one of our custom "research experiments.ﬂ We
- believe that you get the best results and the freshest insight when you attack a problem from multiple angles.
-How do we know? Because we used to be in the trenches, too. We've worked as strategists, planners, managers,
- art directors and designers in traditional settings. And now we work as a seamless extension of your strategy
- department. And we work to infuse the strategy proces with unbridled creativity.We™re happy to be white-
-labeled or just work in the background. It doesn™t matter to us. Our job is to simply help you make your teams
- creative execution the best, most insightful work possible Œ no matter what it takes to get there.
-CLIENTS INCLUDE: Lowe's, Schlitz, Nationwide, JCPenney, vert & vogue, Best Buy, Target, Google, Boar's
- Head, ESPN, Starbucks, Microsoft, Red Hat and Daylight
-Specialties:  cultural trends / consumer anthropology / consumer insights / marketing strategy / marketing
- research / connection planning / brand planning / German language / Arabic language (MSA) / writing / editing
-
-Summary
-N/A
-
-Summary
-N/A
-
-Summary
-N/A
-
-Summary
-Experienced engineering leader.  I love to recruit, figure out what to build, and build it.  My passion is to ship
- stuff.
-
-Summary
-N/A
-
-Summary
-N/A
+Facilitation and negotiation
+Partnership development
 
 Summary
 N/A
@@ -105,4 +64,37 @@ Licensed Acupuncturist
 Contact Jasmine on LinkedIn
 
 Summary
+Online advertising/Data/Cloud related engineering experience. Co-working with Marketing/Sales team for
+ various products.
+
+Summary
+I'm a software engineer with a passion for numbers. I like to explore, build, challenge, and mentor. I worked
+ with robots at JPL, and am working on Augmented Reality at Google.
+I hate working on "low hanging fruit" problems.
+I don't care which programming languages, operating systems, or platforms you're developing in. Are you doing
+ cool things that are going to change the world?
+
+Summary
 N/A
+
+Summary
+N/A
+
+Summary
+Ł About four years of mobile development experience.
+Ł Master of Science in Engineering (Major: Computer Science) from Johns Hopkins University.
+
+Summary
+10 years of experience in Multimedia, Audio and Android in Embedded domain in Semiconductor
+ Industry(AMD, ST-Ericsson, Freescale). 
+C, C++, Assembly Level Programming-ARM11, ARM9, Android
+Patent in MP3 Huffman decoding.
+Skilled in Android HAL, Openmax, Audio Codecs. 
+Hands on in Android Porting.
+Strong communication skill, Analytical mind and Leadership Qualities.
+
+Summary
+N/A
+
+Summary
+Search and recommendation, image understanding, image discovery, beautiful and useful image products.
