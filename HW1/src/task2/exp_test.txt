@@ -1,122 +1,31 @@
 
 Experience
-Software Engineer at Facebook
-June 2017  -  Present
-Working on Bots, Assistant, Conversational Intelligence.
-We are hiring experts in natural language understanding, speech technologies, and other deep learning areas.
-Senior Staff Software Engineering Manager
-August 2015  -  May 2017 
-(1 year 10 months)
-Working on Machine Intelligence in Google Reserch & MI. 
-The focus is to use on-device machine learning to build identity and authentication solutions (details are
- confidential). I lead a team of machine learning researchers and engineers to advance the field of research
- and to build production quality solutions to incorporate into Google products. 
-I'm also a member of the on-device machine intelligence leadership team and participate in defining and
- executing strategies to advance Google hardware story.
-Senior Staff Software Engineer at Google
-April 2014  -  August 2015 
-(1 year 5 months)
-I worked on Google Cloud Platform (https://cloud.google.com/) from April 2014 and August 2015. I founded
- and led the project to coordinate Google Cloud control plane functionalities including billing, monitoring,
- logging, status check, quota, analytics, etc. We built the high performance, high availability service from
- concept to general availability. The project is now a foundational component of Google Cloud Platform. 
-Software Architect / Partner Architect at Microsoft
-May 2007  -  March 2014 
-(6 years 11 months)
-Between 2007 and 2014 I was in a key leadership role of an ambitious technology incubation project that
- rethinks the entire software stack. The project goal was to build a secure, reliable, and performant platform
- for the next generation computing. My team owned many aspects of the system (with myself actively worked
- on most of them), including:
-  * kernel component layering
-Page 
-2
-  * memory manager
-  * synchronization primitives
-  * IO interrupt dispatching
-  * resource accounting
-  * event tracing
-  * process isolation
-  * inter-process communication
-  * cache management
-  * device driver framework
-  * network stack
-  * cryptography and security
-  * web server
-  * server performance
-  * data center integration and management.
-Software Design Engineer/Architect at Microsoft
-March 2003  -  May 2007 
-(4 years 3 months)
-I created the Microsoft Math product (https://en.wikipedia.org/wiki/Microsoft_Mathematics) and led the
- design and development. I developed most of the code in the computer algebra engine that has symbolic/
-numeric computation, equation solving, and 2D/3D graphing capabilities.
-Architect/Vice President Online Banking
-March 1998  -  February 2003 
-(5 years)
-Led the company's online banking unit. Our focus was to design, develop, and maintain online banking
- software for retail and commercial banks.
-The company was acquired by Fidelity National Financial in 2003.
+Deputy Executive Director
+January 1991  -  Present
+
 
 Experience
-Software Engineer at Facebook
-November 2014  -  Present
-Engineer Staff II - Software Development Engineer at Broadcom
-July 2012  -  November 2014 
-(2 years 5 months)
-Customer Support
-Linux Kernel Driver Integration
-Secure OS Integration
-Google Android Qualification test (GTS and CTS tests)
-USB driver Qualification and Microsoft WHQL
-Power SI/ System SI Simulation
-Memory Qualification/Validation
-Web Development Intern at CBS Television Distribution
-September 2011  -  December 2011 
-(4 months)
-Ł This project is to rebuild the video streams management system to provide faster access and better user
- interaction.
-Ł Rewrote the frontend using HTML, CSS, JavaScript, jQuery to improve the system interface and response
- speed.
-Ł Implemented the backend by PHP and optimized the data structure using MySQL to increase data fetching
- speed.
-Web Development Intern at Sony Pictures Entertainment
-June 2011  -  August 2011 
-(3 months)
-Ł Developed the web application Metadata Exporter for Crackle Admin Tool, which includes data fetching
- from database, data analysis, data conversion and sending email with attachments.
+Principal Engineer at Google
+June 2005  -  Present
+Connectivity (2013 onwards) - 
+https://blog.google/topics/internet-access/partnering-toward-next-generation-mobile-networks/
+https://youtube-eng.googleblog.com/2016/04/announcing-mobile-data-plan-api.html
+https://policybythenumbers.googleblog.com/2015/09/information-sharing-for-more-efficient.html
+http://onosproject.org/2016/07/26/on-lab-and-the-linux-foundation-form-cord-project-to-define-the-future-of-
+access/
+https://blog.google/topics/internet-access/bringing-the-internet-to-more-indians/
+http://www.gadgetsnow.com/sundar-pichai-at-iit-kharagpur-toi-travels-with-google-ceo-sundar-pichai-to-iit-
+kharagpur/liveblog/56347635.cms#clschng56351587
 Page 
 2
-Ł Developed on Visual Studio and MS SQL Server platforms using ASP.NET, C#, jQuery, JavaScript,
- HTML, CSS.
-Network Services Student Worker
-September 2010  -  May 2011 
-(9 months)
-Install OS and application software, configure BIOS, Ghost image, set up network connections (Novell),
- computer maintenance, debug errors for users.
-
-Experience
-Software Engineer at Google
-August 2010  -  Present
-Datacenter Automation
-Principal Engineer, Telephony at LiveOps
-2007  -  August 2010 
-(3 years 8 months)
-Member of Technical Staff - Technical Lead
-August 2004  -  July 2007 
-(3 years)
-Member of Technical Staff at Juniper Networks
-2001  -  2004 
-(4 years)
-Member of Technical Staff
-2000  -  2001 
-(2 years)
-Member of Technical Staff - Technical Lead at SGI
-1994  -  1999 
-(6 years)
-Sr. Associate Programmer at IBM
-July 1989  -  1994 
-(5 years 6 months)
-
+Software Defined Networking/Network Virtualization (2011 onwards) - 
+https://www.theregister.co.uk/2017/04/04/google_serves_espresso_linkups_for_cloud/
+https://blog.google/topics/google-cloud/making-google-cloud-faster-more-available-and-cost-effective-
+extending-sdn-public-internet-espresso/
+https://blog.google/topics/internet-access/partnering-toward-next-generation-mobile-networks/
+Content Delivery (2005 - 2014) - 
+https://peering.google.com/#/infrastructure
+http://www.emmys.com/news/press-releases/winners-announced-65th-primetime-emmy-engineering-awards
 
 Experience
 Architect at Cadence Design Systems
@@ -169,43 +78,105 @@ October 1997  -  July 2000
  interconnect simulators.
 
 Experience
-Medical Director at Aetna
-Associate Professor, Hospital Medicine at The Ohio State University Wexner Medical Center
-January 2014  -  March 2016 
+Illustrator
+September 2016  -  Present
+Create weekly illustrations for the Boston public radio show Open Source with Christopher Lydon.
+ Illustrations range from on-site drawings to conceptual, editorial illustrations and can be viewed at http://
+www.coyneworks.com/illustration/#/editorial/ and http://www.coyneworks.com/illustration/#/live-drawing/.
+ Also contribute cultural reviews to the weekly newsletter and help manage the social media accounts.
+Writer/Illustrator
+2013  -  Present
+Work with a variety of individual and corporate clients on projects including book illustration, editorial
+ writing and illustration, portraits/personal commissions, and graphic design work. For more information,
+ visit www.Coyneworks.com.
+Content Writer at Gradesavers
+2013  -  2014 
+(2 years)
+Researched and wrote full-length study guides on graphic novels, nonfiction work, and poetry collections.
+Research Assistant at The Forsyth Institute
+June 2011  -  August 2013 
 (2 years 3 months)
-Staff Physician, Internal Medicine at Kaiser Permanente
-February 2009  -  December 2013 
-(4 years 11 months)
+Assistant to Dr. Toshihisa Kawai, DDS, PhD, at the Forsyth Institute, a dental research clinic and laboratory
+ affiliated with Harvard School of Dental Medicine.
+Responsibilities: editing scientific manuscripts and liaising with scientific journals to streamline publication;
+ assisting visiting Japanese researchers with immigration/transition into Cambridge and the laboratory;
+ managing the day-to-day operation of the laboratory; translating documents/correspondence from JP->EN;
+ assisting Japanese researchers with their English language education.
+Resident Director
+May 2010  -  August 2010 
+(4 months)
+-Served as the in-country Resident Director of a Japanese language program in Kyoto, Japan.  
+-Worked with American college and graduate students who were the recipients of full scholarships from the
+ State Department to study Japanese in an intensive two-month program.  
+Page 
+2
+-Arranged weekly cultural excursions to areas of interest in and around Kyoto, as well as a week-long
+ countrywide tour including Hiroshima, Yokohama, and Tokyo.  
+-Assisted students with various aspects of cultural adjustment and language learning while working closely
+ with local staff at Doshisha University.
+Language Teacher
+August 2007  -  August 2009 
+(2 years 1 month)
+-Instructed approximately 2,000 junior high school and 500 kindergarten students in English language and
+ conversation.  
+-Organized and implemented original and effective lesson plans, often incorporating current international
+ news events to increase students™ global awareness. 
+-Coordinated promotional events for the city of Kurobe.
+*Honors: 2009 Toyama Honorary Friendly Envoy Award.  Awarded by the Toyama Prefectural Government
+ in July, 2009, for promotion of tourism in Toyama through international festivals.
+Public Relations Assistant at Portland Museum of Art
+May 2006  -  August 2006 
+(4 months)
+-Compiled press releases about new exhibits
+-Distributed information to museum members and potential donors
+-Promoted exhibits to the press
+Assistant to the Professor of Religion
+January 2006  -  April 2006 
+(4 months)
+Preparing coursework weekly; writing up exams; coordinating visits to local sites
 
 Experience
-Software Engineer
-February 2015  -  Present
-Software Engineer at MediaTek
-August 2011  -  December 2012 
-(1 year 5 months)
-Developed LTE (4G) protocol stack
-Software Engineer Intern at MediaTek
-July 2010  -  September 2010 
-(3 months)
-Developed a mobile network packet encoding/decoding tool.
-Software Engineer Intern at Institute for Information Industry
-July 2009  -  September 2009 
-(3 months)
-Developed an online education system including front end and back end.
+Senior Software Engineer at Google
+2007  -  Present
+Software Engineer at Google
+July 2007  -  December 2009 
+(2 years 6 months)
 
 Experience
-Senior Staff Software Engineer / Manager at Google
-February 2007  -  Present
-Technical lead manager for Native Ads, Creative Serving and Quality. 
-Uber tech lead for Machine Vision for Display Ads at Google, with specialties on image retrieval, ranking,
- classification, recognition & enhancement at large-scale. 
-Technical lead for several Google Image Search features in the past, including Related Images and Search by
- Image, and the key contributor for Similar Images and Image Swirl etc.
-Search by Image: http://youtu.be/t99BfDnBZcI
-Similar Images: http://youtu.be/6fD2t4d2Ln4
-Graduate student at Zhejiang University
-1998  -  2001 
-(4 years)
+Eng Lead in Video Advertising
+2015  -  Present
+Working on improving the infrastructure and quality of video advertising on YouTube!
+Software Engineer on Android at Google
+2013  -  2015 
+(3 years)
+Making the Google Search App on Android a better experience, and eventually making our whole phone
+ much smarter by leveraging Google intelligence. 
+AdMob Quality at Google
+January 2011  -  2013 
+(3 years)
+Focused on improving the relevance of ads in mobile apps by building the next generation user models, ads
+ auction, pricing and budgeting system. Major launches included:
+ 
+- Launch of second price auction on AdMob: http://googlemobileads.blogspot.com/2012/02/admob-auction-
+enhancements.html
+- Smoothening budget constrained advertiser spend through the day leading to better auction competition and
+ gains in advertiser welfare. 
+- Selecting higher quality ads for budget constrained advertisers giving major improvements in advertiser
+ ROI and user experience. 
+- Improved click prediction models trained via large scale machine learning infrastructure leading to
+ significant revenue gains.
+Search Quality
+August 2005  -  August 2008 
+(3 years 1 month)
+- Significantly improved search quality of Google Video and YouTube by analyzing user click data,
+ experimenting with new ranking functions, preventing click spam, and balancing fresh video content against
+ established high quality videos.
+Page 
+2
+- Launched search feature improvements on YouTube by adding query suggestions, query reduction to make
+ long queries more effective and geo search giving users ability to find videos by location.
+- Worked on next generation system for monitoring Google services running on large clusters of machines by
+ creating engineering consoles and automating the storage of long-term monitoring data.
 
 Experience
 Associate Partner, Insights Director at The PARAGRAPH Project
@@ -262,191 +233,162 @@ April 2003  -  May 2005
 (2 years 2 months)
 
 Experience
-Graduate Research and Teaching Assistant at University of Massachusetts Boston
-September 2014  -  Present
---Co-wrote and edited manuscripts; co-wrote IRB applications, conference proposals, and conference
- presentations; and engaged in project development and analysis of quantitative and qualitative data. 
---Teaching assistant for COUNSL 601: Research and Evaluation in Psychology, Fall 2015.
---Teaching assistant for COUNSL 620: Human Development, Spring 2016.
-Writer/Editor (contract) at Massachusetts Department of Public Health
-June 2016  -  Present
-Counseling Psychology Intern at Salem State University
-August 2016  -  May 2017 
-(10 months)
---Conduct intake assessments with incoming clients and determine service needs and goals.
---Provide crisis intervention, outreach to campus, and individual counseling within a brief treatment model.
---Maintain client records in an electronic medical record system.
-Counseling Psychology Intern at Wheaton College (MA)
-August 2015  -  May 2016 
-(10 months)
---Conduct intake assessments with incoming clients and determine service needs and goals.
---Provide individual counseling within a brief treatment model.
---Maintain client records in an electronic medical record system.
-Manager, Data Warehouse Advisory Board at Massachusetts Department of Public Health
-September 2014  -  August 2015 
-(1 year)
---Engaged academic partners and internal stakeholders in planning an advisory structure for a Data
- Warehouse.
---Recipient of a Special Citation from the Commissioner of the Department in May 2015 as part of the Opioid
- Data Management Team. This team was responsible for creating a report on fatal opioid overdoses across the
- Commonwealth to facilitate time-sensitive, data-driven decision-making. 
-Deputy Director, Office of Statistics and Evaluation in the Bureau of Community Health & Prevention at
-Massachusetts Department of Public Health
-August 2013  -  August 2014 
-(1 year 1 month)
-Page 
-2
---Responsible for oversight and coordination of multiple data collection efforts to evaluate ongoing activities
- for programs within the Bureau of Community Health and Prevention, including budget management and
- supervision of 8-10 epidemiologists and evaluators. 
---Collaborated with leadership throughout MDPH to design, release, and score applications for the Prevention
- and Wellness Trust Fund, which provides $57 million to communities to fund evidence-based prevention
- efforts to reduce the prevalence of and health care costs associated with chronic health conditions in
- Massachusetts communities. 
---Developed evaluation plans for multiple community initiatives
---Trained epidemiologists in skills such as ArcGIS and survey development 
-Epidemiologist II, Office of Statistics and Evaluation at Massachusetts Department of Public Health
-July 2012  -  August 2013 
-(1 year 2 months)
---Responsible for oversight and coordination of multiple data collection efforts to evaluate ongoing activities
- for two Community Transformation Grants awarded to MDPH by the Centers for Disease Control and
- Prevention (CDC). These grants were awarded to support community-level efforts to prevent chronic disease
- in nine counties across the state.
---Developed evaluation plans for multiple community initiatives, developed and edited survey instruments,
- developed and revised survey sampling plans, and developed multiple survey weighting schemes.
---Analyzed data using SAS and ArcGIS and reported results.
-Epidemiologist I, Office of Statistics and Evaluation at Massachusetts Department of Public Health
-March 2012  -  July 2012 
-(5 months)
---Analyzed statewide, national, and program data to identify environmental, demographic, and genetic factors
- that influence heart disease and stroke prevalence and outcomes in Massachusetts residents
-Project Manager/Research Associate
-October 2011  -  February 2012 
-(5 months)
---Oversaw implementation and ongoing activities of two research studies in the Obesity Prevention Program,
- including budget management and preparation of study documents for submission to the Human Subjects
- Research Committee (IRB)
---Hired, trained, and supervised research assistants during study recruitment
---Analyzed study data using SAS
-Community Health Analyst, Southeast Center for Healthy Communities
-October 2009  -  October 2011 
-(2 years 1 month)
---Partnered with hospitals and community groups to design and conduct comprehensive, community-
-based participatory community health assessments. Recipient of a Community Transformation Award for
- community health assessment at the Massachusetts Department of Public Health's 2011 Ounce of Prevention
- conference.
---Collected, analyzed, and reported quantitative data and qualitative data including survey results, focus
- groups, and key informant interviews.
-Page 
-3
---Recruited, coordinated, and facilitated meetings for three community health assessment subcommittees to
- assist organizations in making data-driven decisions.
---Designed and conducted capacity-building trainings on topics such as coalition sustainability, cultural
- humility, key informant interviews, focus groups, assessment, evaluation, and the Massachusetts Community
- Health Information Profile (MassCHIP).
-Epidemiologist, Health Survey Program at Massachusetts Department of Public Health
-September 2008  -  October 2009 
-(1 year 2 months)
---Compiled 2009 Massachusetts Behavioral Risk Factor Surveillance System (BRFSS) survey incorporating
- CDC-mandated core questions, CDC optional modules, and state-added questions.
---Cleaned 2008 data, including open-ended questions, and constructed standardized data file for use of
- various programs within the Massachusetts Department of Public Health.
---Used SAS to analyze BRFSS data for internal Department of Public Health programs such as Asthma
- Control, Obesity Prevention, Injury Prevention, and Disability; also analyzed data for external agencies such
- as NARAL.
---Wrote and delivered annual reports and presentations for statewide and national audiences focused on topics
- such as survey sampling methods, race/ethnicity health disparities, and health care reform.
---Assisted in preparing a five-year federal chronic disease prevention grant.
-Program Director, Attleboro Family Planning
-August 2007  -  August 2008 
-(1 year 1 month)
---Managed day-to-day operations, staff, and budget of a publicly-funded sexual health clinic.
---Developed services for males at the clinic, widened clinic referral network, and implemented an on-site
- rapid HIV testing program. 
---Developed and conducted outreach activities for various audiences focused on clinic services and sexual
- health information.
---Developed quality improvement measures and oversaw quality improvement activities.
---Provided HIV testing and counseling after receiving certification from the Massachusetts Department of
- Public Health.
-Senior Reproductive Health Counselor, Hull Teen and Women's Health
-September 2003  -  August 2007 
-(4 years)
---Engaged in client-centered counseling on topics such as contraceptive methods, sexual health concerns, and
- risk behaviors using harm reduction, stages of change, and motivational interviewing models.
---Conducted pregnancy testing with options counseling and provided STI test and abnormal Pap smear
- results.
---Facilitated outreach activities at local high schools and day reporting centers on such topics as
- contraception, sexually transmitted infections, sexual assault, and healthy relationships.
---Maintained client records and clinic logs of test results.
-Page 
-4
-
-Experience
-Staff Software Engineer at Google
-2014  -  Present
-Software Engineer at Google
-2010  -  2014 
+Product Management/Engineering Exec
+2010  -  Present
+Vice President Marketing at Azingo
+January 2007  -  March 2010 
+(3 years 3 months)
+Executive Council Member, Azingo at LiMo Foundation
+2007  -  March 2010 
+(3 years 3 months)
+Vice President Marketing and Business Development
+November 2001  -  January 2007 
+(5 years 3 months)
+Co-Founder, Managing Venture Partner
+2000  -  2004 
 (5 years)
-Software Engineer at Google
-2007  -  2010 
-(4 years)
-Intern at Motorola Mobility
-March 2006  -  September 2006 
-(7 months)
-Intern at Intel Corporation
-May 2004  -  August 2004 
-(4 months)
+Vice President Marketing and Business Development
+1994  -  1998 
+(5 years)
+Director Publishing Business Unit
+1992  -  1996 
+(5 years)
+Manager of Product Management at Rolm / IBM / Siemens
+1984  -  1992 
+(9 years)
 
 Experience
-Software Engineer at Google
-April 2016  -  Present
-Software Implementation Consultant at Planisware
-June 2014  -  August 2015 
-(1 year 3 months)
-
-Experience
-Staff Software Engineer, Tech Lead at Waymo
-January 2017  -  Present
+Senior Staff Software Engineer & Tech Lead Manager at Google
+December 2014  -  Present
+Manage a team to build content understanding infrastructure
+Manage a team to produce contents used by Google Search
+Lead a team to build query understanding infrastructure
 Staff Software Engineer at Google
-August 2012  -  December 2016 
-(4 years 5 months)
-Latest: Work on 3D perception, computer vision, and machine learning for the self-driving car project in
- Google. 
-Previous: Research and develop computer vision and machine learning techniques to improve the ranking
- quality of Google Image Search.
-Research Intern at Gracenote
-June 2010  -  August 2010 
-(3 months)
-Research Intern at Eastman Kodak
-May 2009  -  August 2009 
-(4 months)
+July 2007  -  November 2014 
+(7 years 5 months)
 
 Experience
-Software Engineer at IGT
-September 2014  -  Present
-I currently work on a self organizing team to complete various projects effectively and efficiently. Use of
- Agile methodology is encouraged and exercised by my team. I brought change to my team and I attempted
- to challenge and improve many existing processes that were in place prior to my hire. I have grown and
- developed as a leader, as a software engineer, and as an individual in my current role. I lead whenever I have
- an opportunity to do so and I consider myself as an effective, ambitious, driven, optimistic and understanding
- leader. I really enjoy being challenged by my teammates because I push myself to be better and to perform at
- my best every single day. Projects I worked on range from API, web, automation, and database development
- to server and environment maintenance and support.
+Senior Engineering Director at Google
+March 2014  -  Present
+Protect Google's end users. Protect Google's core business.  Rethink AdWords, AdX, and DBM policy
+ enforcement from the ground up.
+Engineering Director at Facebook
+August 2013  -  March 2014 
+(8 months)
+Worked on insights, measurement, and reporting.
+Engineering Director at Google
+August 2005  -  July 2013 
+(8 years)
+- DoubleClick Search - April 2010 to July 2013 - eng mgr and then director
+- AdWords Opportunities tab - August 2009 to October 2010 - eng mgr
+- TV Ads - July 2007 to April 2009 - eng mgr
+- Google Apps - August 2005 to August 2009 - software engineer and then eng mgr
+Freelancer
+2001  -  2007 
+(7 years)
+Senior Software Engineer at EarthLink, Inc.
+May 2003  -  August 2005 
+(2 years 4 months)
+FE engineer
+Software Engineer
+July 2002  -  March 2003 
+(9 months)
+FE/BE engineer
+Principal Engineer
+August 2000  -  August 2001 
+(1 year 1 month)
+Member of awesome 7 person eng team
+Software Engineer at Intuit, Inc.
 Page 
 2
-Technical Compliance Test Engineer at Ainsworth Game Technology
-January 2014  -  September 2014 
-(9 months)
-Identified software anomalies and worked with the game developers on resolutions. Performed various math
- calculations to verify game's algorithms and odds. Verified, investigated and tested software performance
- and functionality. Cooperated with the external testing facilities and regulators regarding game submissions
- and issues. Managed multiple projects at the same time and prioritized accordingly.
-Engineering Intern at NV Energy
-May 2012  -  December 2013 
-(1 year 8 months)
-Worked in Energy Efficiency and Demand Response, and Distribution and Operation departments.
-Operated load control systems and collaborated with the engineering personnel to target load reduction at
- the electrical system peaks. Developed and performed testing procedure for In Home Displays. Provided
- technical support to transmission and distribution operators. Dealt with Energy Management System (EMS)
- and Distribution Management System (DMS).
+1998  -  2000 
+(3 years)
+FE engineer on web-based finance app
+Software Engineer at Oracle Corporation
+1996  -  1998 
+(3 years)
+UI toolkit library developer
+Software Engineer Intern at IBM
+June 1995  -  September 1995 
+(4 months)
+Software Engineer Intern at NCR
+1993  -  1994 
+(2 years)
 
+Experience
+Principal Software Engineer at Charter Communications
+May 2016  -  Present
+Moved to Charter with their acquisition of Time Warner Cable. Now serving as lead developer for team
+ that is developing a video consumption application for Samsung TV using HTML, JavaScript, Backbone,
+ underscore and jQuery.
+Principle Software Engineer at Time Warner Cable
+2003  -  May 2016 
+(13 years 5 months)
+Software engineer with Time Warner Cable. Contributed to development of Java OCAP set top box software,
+ and development of Android and iOS mobile applications. 
+Proposed and helped to organize an annual 3 day internal developer's conference attended by over 200 Time
+ Warner Cable engineers. This conference occurred in 2013, 2014 and 2015.
+Contract Software Engineer at TVG Network
+June 2000  -  March 2003 
+(2 years 10 months)
+Developed interactive television application for wagering on horse races for Dish Network satellite TV
+ receivers using OpenTV middleware.
+Senior Software Engineer
+May 1996  -  May 2000 
+(4 years 1 month)
+Worked on real time television master control broadcast automation system. Developed COM framework for
+ next generation of broadcast automation systems. Developed embedded web server to provide remote control
+ of broadcast automation system.
+Senior Software Engineer
+September 1992  -  April 1996 
+(3 years 8 months)
+Worked on cable settop box control systems and data management for on-screen television guides, using C, C
+++, RDB and Oracle databases on VMS and Unix systems.
+Senior Scientist
+September 1984  -  September 1992 
+(8 years 1 month)
+Page 
+2
+Performed testing of water and soil samples for environment pollutants using GC/MS (Gas Chromatography /
+ Mass Spectromity). Developed FORTRAN applications to automate process of GC/MS data. Developed
+ application that used a least-squares pattern matching approach to identify mixtures of PCBs from gas
+ chronography data.
+
+Experience
+Staff Software Engineer at Google
+July 2005  -  Present
+2005 - 2015: Web Search spam team, received Google's "EMG Award". The group responsible for removing
+ or demoting the rank of undesirable documents in search results. Often considered 'adversarial optimization'
+ due to the fact that the outside world would respond and attempt to work around any changes made. Worked
+ on spam collaborations with products outside web search, including Blogger, Adsense, and Maps. Spoke at
+ several search conferences.
+2009: Received Google Founders award
+2015 - Present: Accelerated Mobile Pages (Google AMP), a web page format for mobile documents that
+ guarantees browser performance. TL of the AMP Validator and major contributor to the project. @Gregable
+ on github.
+Adventurer
+2004  -  Present
+Outdoors Highlights:
+2004: Week long, 75 mile hike on the Appalachian Trail in North Carolina
+2010: Summit Mt Kilimanjaro via Machame route, tallest peak in Africa (5,895 m)
+2011: 6-day, 50 mile, Yosemite High Sierra hike
+2014: Waterfall Ice Climbing in Lee Vining, CA
+2014: Summit Mt Rainier (4,392 m) on 6-day glacier skills course with IMG.
+2015: Waterfall Ice Climbing in Ouray, CO
+2015: 5-day canoe trip on Green River to the Confluence w/ Colorado River
+2016: 200 mile, 8-day Canoe trip on the Yukon River in Canada's Yukon Territory
+2017: Summit Mt Kosciuszko, tallest peak in Australia (2,228 m), via the chairlift route :-) 
+Page 
+2
+
+
+Experience
+Engineering Director at Facebook
+2014  -  Present
+Lead Ads Delivery engineering group including Ads Infrastructure, Ads Ranking and Optimization, Ads
+ Targeting, Market Dynamics and Delivery Insights for ads on Facebook, Instagram and Audience Network
+Software Engineer at Facebook
+2009  -  Present
+Software Engineer
+2001  -  2009 
+(9 years)

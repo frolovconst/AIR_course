@@ -7,16 +7,6 @@ Seasoned Professional Engineer with a wide range of technical experience in seve
  Done' kind of guy.
 
 Summary
-I am the co-head of the LIACS Computer Systems, Imagery and Media Research cluster (30+ members), which
- is one of the two main research groups at the computer science department at Leiden University. In addition,
- as a member of the LIACS Scientific Council, I am responsible for steering the general direction of computer
- science research at Leiden University. My group's mission is to investigate new paradigms for the retrieval and
- understanding of multimedia information by developing new deep learning approaches.
-Currently, I'm also the Editor-In-Chief of the International Journal of Multimedia Information Retrieval
- (Springer), a mid-level professor at Leiden University and building the public ACM MIR-FLICKR testbed for
- system evaluation in media retrieval.
-
-Summary
 Mike is a results-oriented engineer-turned-accountant who is looking to leverage his technical background and
  aptitude for understanding challenging concepts to successfully help clients with their taxation and accounting
  needs. 
@@ -31,6 +21,9 @@ Specialties: Income Tax Preparation (including partnership and corporate taxatio
 Summary
 Google/YouTube SWE. 
 Not interested in new opportunities at this moment. Thank you.
+
+Summary
+N/A
 
 Summary
 N/A
@@ -83,9 +76,6 @@ Operating Systerms: Linux,
 Networking: TCP/IP, WiFi (wpa_supplicant, Network Manager),
 
 Summary
-N/A
-
-Summary
 Specialties: Linux device drivers (I2C, ALSA, SPI, Video, Input, MTD, USB, MMC, PCI, PCIe, Serial)
 Linux kernel development (Board support, bring up)
 Embedded systems
@@ -94,13 +84,6 @@ Networking
 Media (Audio/Video) (VLC, FFMPEG, DirectFB)
 C
 Board bring up
-
-Summary
-Specialties: Languages: C, C++, Java, HTML, CSS, JavaScript, AJAX, jQuery, PHP, SQL, C#, ASP.NET,
- ASP, VBScript, Perl
-Applications: Microsoft Office, Visual Studio, Eclipse, NetBeans, Dreamweaver, phpMyAdmin, Keil, Protel,
- Photoshop 
-Web Servers and Databases: Apache, Tomcat, IIS; mySQL, Oracle, MS SQL Server, MS Access
 
 Summary
 The effective implementation and appropriation of IT to business goals is what motivates me. This motivation,
@@ -122,7 +105,19 @@ Currently specializing in Cloud Technologies, primarily Amazon AWS. Currently le
  accelerate customers to success.
 
 Summary
-N/A
+M.B.T.A. 1990- present. 27 years
+2014- present .Superintendent Maintenance of Way (Rapid Transit Lines) Red, Orange, Blue lines and
+ Systemwide track production 
+2007-2015 Supervisor Maintenance of Way
+( Orange Line)
+1997-2007 Section Foreman ( Track inspection)
+1990-1997- laborer, trackmen, Trackwalker ,
+Foreman.
+Page 
+2
+Joe Anderson
+M.B.T.A. Superintendent Maintenance of Way ( Rapid Transit Lines)
+Contact Joe on LinkedIn
 
 Summary
 Ł About four years of mobile development experience.
@@ -141,6 +136,24 @@ Summary
 N/A
 
 Summary
+Designed and implemented the first Google Global Cache (GGC, a CDN platform embedded in operator
+ networks). Over time, led Google™s Content Delivery Network (CDN) efforts including GGC and oversaw
+ the CDN grow its scale several orders of magnitude into one of the largest in the world with GGC deployed
+ today by several hundreds of carriers globally. Instrumental in bringing Software Defined Networking (SDN)
+ and Network Function Virtualization (NFV) concepts to Google™s traffic engineering and edge networking
+ infrastructure. Leading projects over the last few years that enable wireless operators to run their networks
+ more efficiently. 
+I'm also on the board of the open-source project CORD which aims to bring datacenter economics and cloud
+ agility to the Telco Central Office. I hold more than a dozen patents and conference papers filed/granted/
+published. My closest potential shot at stardom though was when I went to Los Angeles in 2013 as part of the
+ team that collected the 65th Primetime Emmy Engineering Award for YouTube; but a couple of years later I
+ am still at Google :P
+Domain Expertise: Connectivity, Internet access, Wireless, CDN, Content Distribution, SDN, Wireless
+ Performance, Mapping, TCP, Caching, DNS, Load Balancing, Large-scale Distributed Systems, Networking,
+ Internet Measurements, Routing.
+Functions: Engineering lead. Centrally involved in product, strategy, project management and partnerships.
+
+Summary
 Customer focused with dedication to regulations and guide lines. Fast learner.
 Have recent experience in software troubleshooting, maintenance, and installation on Windows XP and 7
  Professional, VM Ware ESX and Fusion, Mac OSX and Linux Red Hat and Ubuntu platforms.
@@ -157,6 +170,9 @@ City Glass Company when I was 16.  I often said that it takes a special person t
  offering the best advice possible.
 Specialties: Frameless shower glass doors-Stained and leaded glass-  Aluminum doors and entrances-Vinyl
  replacement windows-furniture and desk top glass-Low-e insulating glass.
+
+Summary
+N/A
 
 Summary
 N/A
@@ -224,9 +240,6 @@ I don't care which programming languages, operating systems, or platforms you're
  cool things that are going to change the world?
 
 Summary
-Innovate and build beautiful advertisement products
-
-Summary
 N/A
 
 Summary
@@ -245,7 +258,23 @@ Summary
 N/A
 
 Summary
-N/A
+We are, at times, a strange brew. But this is what works for us Š and inevitably, it works for our clients. The
+ types of people who work at PARAGRAPH are strategists, anthropologists, artists, engineers, entrepreneurs,
+ negotiators, students and builders. Herein lies our value. We are able to look at problems from many different
+ perspectives and apply this diverse point of view to solutions for our clients.
+When we respond to a client™s brief we don™t just think about the research they want to do. We think about
+ their business and marketing objectives. Then we step back and think: how can we help them get there? Often,
+ the answer is to blend the client™s proposed methodology with one of our custom "research experiments.ﬂ We
+ believe that you get the best results and the freshest insight when you attack a problem from multiple angles.
+How do we know? Because we used to be in the trenches, too. We've worked as strategists, planners, managers,
+ art directors and designers in traditional settings. And now we work as a seamless extension of your strategy
+ department. And we work to infuse the strategy proces with unbridled creativity.We™re happy to be white-
+labeled or just work in the background. It doesn™t matter to us. Our job is to simply help you make your teams
+ creative execution the best, most insightful work possible Œ no matter what it takes to get there.
+CLIENTS INCLUDE: Lowe's, Schlitz, Nationwide, JCPenney, vert & vogue, Best Buy, Target, Google, Boar's
+ Head, ESPN, Starbucks, Microsoft, Red Hat and Daylight
+Specialties:  cultural trends / consumer anthropology / consumer insights / marketing strategy / marketing
+ research / connection planning / brand planning / German language / Arabic language (MSA) / writing / editing
 
 Summary
 N/A
@@ -263,37 +292,7 @@ Summary
 N/A
 
 Summary
-Key Accomplishments
--      As project consultant to the "B-SET for Career Network" in Boston, a project of Massachusetts Advocates
- for Children, developed, designed and implemented a collective impact policy and practice collaboration
- among nearly 60 member organizations including Boston Public Schools, disability service organizations at
- local and state levels, workforce development intermediaries, youth development agencies, business partners,
- organized labor and the City of Boston.
-- Developed, instituted, oversaw and monitored quality improvement processes and capacity building
- at Boston™s three one-stop career centers during a period of volume growth from 11,000 to over 25,000
- customers. Despite volume growth and budget and staffing decreases, rates of customer satisfaction ranged
- between 90% and 96%. 
-- Co-founded Emerge, the first batterer intervention agency in the country. Emerge continues to serve as a
- model for such programs.
-For over 20 years I have been involved in organization development, change management and quality
- improvement in both the private and public sectors in settings ranging from grassroots organizations to
- hospitals and other non-profits. Prior to that I was trained as a clinical psychologist, completing my doctorate in
- 1990. I was a founder of Emerge, the first domestic violence batterer intervention program in the country.
-For nearly 17 years I worked at the Boston Private Industry Council on the development and implementation of
- workforce development initiatives. My work concentrated on the roll out of the first One Stop Career Centers
- in the country and the continuing evaluation and improvement of the products and services they offered.
-Specialties
-Organization and systems development
-Institutional culture management
-Quality improvement
-Change management
-Instructional design & delivery
-Program development & evaluation
-Communications
-Page 
-2
-Facilitation and negotiation
-Partnership development
+N/A
 
 Summary
 N/A
@@ -308,28 +307,15 @@ Summary
 N/A
 
 Summary
-- Built and launched Machine Learning/AI/Data Science services and development tools in Google Cloud
- Platform at Google (https://cloud.google.com/ml-engine and https://cloud.google.com/datalab).
-- 16 years of exceptional track record building Cloud, web and mobile applications, tools, frameworks and
- platforms at Microsoft (Azure, ASP.NET, Bing).
-- Diverse set of skills based on launching products and services ranging from machine learning and web
- developer platforms/tools/services to consumer experiences.
-- Hands-on approach and execution through all stages of product cycle from idea inception/incubation, vision
- development, prototyping, architecture definition and design, implementation, shipping and presenting/
-evangelizing to customers.
-- Delivered results in different roles spanning software engineer, engineering lead, and architect, in different
- capacities from individual contributor, manager and mentor.
-- Solid design/architecture skills combined with pragmatic approach to development and ability to relate to
- business needs/requirements, to connect and engage directly with customers and understand/incorporate new
- technologies.
-- Filed and awarded 50+ patents and received many awards over the course of my career.
-- Creator of Script# (https://github.com/nikhilk/scriptsharp)
-- Reachable via my web site (http://www.nikhilk.net) or via twitter (http://twitter.com/nikhilk)
+N/A
 
 
 Summary
-Online advertising/Data/Cloud related engineering experience. Co-working with Marketing/Sales team for
- various products.
+Experienced engineering leader.  I love to recruit, figure out what to build, and build it.  My passion is to ship
+ stuff.
+
+Summary
+N/A
 
 Summary
 Life is short. I would be happy if I can develop into the best in one area. However my curiosity always propel
@@ -363,11 +349,6 @@ I never want to stop learning or being challenged in and out of my comfort zone.
  time with my family and my friends.
 
 Summary
-Extensive experience providing assurance services to public companies, private companies and governmental
- entities.
-Specialties: Assurance services
-
-Summary
 David D™Arcangelo is Director of the MassachusettsOffice On Disability and is a Malden City Councilor At-
 large.
 David is considered one of the Commonwealth's most prolific political activists and was the 2014 Republican
@@ -398,6 +379,17 @@ Summary
 Experienced Finance with a demonstrated history of working in the dental accounting industry. Skilled in cloud
  based accounting, financial statements, small business entity structuring, and tax. Strong finance professional
  with a MAcc from Southern Utah University.
+
+Summary
+N/A
+Education
+New England School of Acupuncture
+Master of Acupuncture, Chinese and Japanese Acupuncture, 2010 - 2015
+Page 
+2
+Jasmine Moran
+Licensed Acupuncturist
+Contact Jasmine on LinkedIn
 
 Summary
 N/A
