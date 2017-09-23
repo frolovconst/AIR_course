@@ -1,0 +1,116 @@
+
+Summary
+I am the co-head of the LIACS Computer Systems, Imagery and Media Research cluster (30+ members), which
+ is one of the two main research groups at the computer science department at Leiden University. In addition,
+ as a member of the LIACS Scientific Council, I am responsible for steering the general direction of computer
+ science research at Leiden University. My group's mission is to investigate new paradigms for the retrieval and
+ understanding of multimedia information by developing new deep learning approaches.
+Currently, I'm also the Editor-In-Chief of the International Journal of Multimedia Information Retrieval
+ (Springer), a mid-level professor at Leiden University and building the public ACM MIR-FLICKR testbed for
+ system evaluation in media retrieval.
+
+Summary
+N/A
+
+Summary
+Specialties: Languages: C, C++, Java, HTML, CSS, JavaScript, AJAX, jQuery, PHP, SQL, C#, ASP.NET,
+ ASP, VBScript, Perl
+Applications: Microsoft Office, Visual Studio, Eclipse, NetBeans, Dreamweaver, phpMyAdmin, Keil, Protel,
+ Photoshop 
+Web Servers and Databases: Apache, Tomcat, IIS; mySQL, Oracle, MS SQL Server, MS Access
+
+Summary
+N/A
+
+Summary
+Over 15 years of experience designing and implementing software in the field of Electronic Design Automation
+ (EDA).
+Specialties:
+- Software design and implementation of high performance technical compute applications.
+- Parallel programming in both multithreaded and distributed environments.
+- Performance analysis and optimization with respect to runtime and memory footprint.
+- Extensive knowledge of EDA algorithms in the field of RC parasitic extraction.
+Goals:
+- To make significant contributions in a fast-paced, customer-oriented work environment.
+
+Summary
+N/A
+
+Summary
+N/A
+
+Summary
+Innovate and build beautiful advertisement products
+
+Summary
+N/A
+
+Summary
+Key Accomplishments
+-      As project consultant to the "B-SET for Career Network" in Boston, a project of Massachusetts Advocates
+ for Children, developed, designed and implemented a collective impact policy and practice collaboration
+ among nearly 60 member organizations including Boston Public Schools, disability service organizations at
+ local and state levels, workforce development intermediaries, youth development agencies, business partners,
+ organized labor and the City of Boston.
+- Developed, instituted, oversaw and monitored quality improvement processes and capacity building
+ at Boston™s three one-stop career centers during a period of volume growth from 11,000 to over 25,000
+ customers. Despite volume growth and budget and staffing decreases, rates of customer satisfaction ranged
+ between 90% and 96%. 
+- Co-founded Emerge, the first batterer intervention agency in the country. Emerge continues to serve as a
+ model for such programs.
+For over 20 years I have been involved in organization development, change management and quality
+ improvement in both the private and public sectors in settings ranging from grassroots organizations to
+ hospitals and other non-profits. Prior to that I was trained as a clinical psychologist, completing my doctorate in
+ 1990. I was a founder of Emerge, the first domestic violence batterer intervention program in the country.
+For nearly 17 years I worked at the Boston Private Industry Council on the development and implementation of
+ workforce development initiatives. My work concentrated on the roll out of the first One Stop Career Centers
+ in the country and the continuing evaluation and improvement of the products and services they offered.
+Specialties
+Organization and systems development
+Institutional culture management
+Quality improvement
+Change management
+Instructional design & delivery
+Program development & evaluation
+Communications
+Page 
+2
+Facilitation and negotiation
+Partnership development
+
+Summary
+N/A
+
+Summary
+- Built and launched Machine Learning/AI/Data Science services and development tools in Google Cloud
+ Platform at Google (https://cloud.google.com/ml-engine and https://cloud.google.com/datalab).
+- 16 years of exceptional track record building Cloud, web and mobile applications, tools, frameworks and
+ platforms at Microsoft (Azure, ASP.NET, Bing).
+- Diverse set of skills based on launching products and services ranging from machine learning and web
+ developer platforms/tools/services to consumer experiences.
+- Hands-on approach and execution through all stages of product cycle from idea inception/incubation, vision
+ development, prototyping, architecture definition and design, implementation, shipping and presenting/
+evangelizing to customers.
+- Delivered results in different roles spanning software engineer, engineering lead, and architect, in different
+ capacities from individual contributor, manager and mentor.
+- Solid design/architecture skills combined with pragmatic approach to development and ability to relate to
+ business needs/requirements, to connect and engage directly with customers and understand/incorporate new
+ technologies.
+- Filed and awarded 50+ patents and received many awards over the course of my career.
+- Creator of Script# (https://github.com/nikhilk/scriptsharp)
+- Reachable via my web site (http://www.nikhilk.net) or via twitter (http://twitter.com/nikhilk)
+
+Summary
+Online advertising/Data/Cloud related engineering experience. Co-working with Marketing/Sales team for
+ various products.
+
+Summary
+N/A
+
+Summary
+Extensive experience providing assurance services to public companies, private companies and governmental
+ entities.
+Specialties: Assurance services
+
+Summary
+N/A

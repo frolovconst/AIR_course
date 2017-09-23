@@ -1,0 +1,491 @@
+
+Experience
+Member
+2015  -  Present
+Member
+2013  -  Present
+http://www.sigmm.org
+Editor-in-Chief
+2012  -  Present
+http://www.springer.com/13735
+Chair
+2011  -  Present
+http://www.mirsociety.org
+Director of Multimedia Retrieval and Deep Learning at Leiden University
+September 2005  -  Present
+Chair Professor of Computer Science at Tsinghua University
+2003  -  Present
+Research and teaching in content based analysis of multimedia
+Professor (mid-level, tenured, "Universitair hoofddocent") at Leiden University
+January 2001  -  Present
+Page 
+2
+Chair
+2009  -  2015 
+(7 years)
+The ACM International Conference on Multimedia Retrieval is the leading conference on multimedia search
+ and retrieval worldwide.  It is the main forum for researchers and practitioners to share their ideas, insights,
+ and discoveries and set future directions for the community.
+General co-chair
+January 2010  -  December 2010 
+(1 year)
+IEEE PCM 2010 is the major annual international conference organized as a forum for the dissemination of
+ state-of-the-art technological advances and research results in the fields of theoretical, experimental, and
+ applied multimedia analysis and processing.
+General Chair
+January 2008  -  December 2008 
+(1 year)
+ACM International Conference on Multimedia Information Retrieval
+Chair at IEEE HCI2007
+January 2007  -  December 2007 
+(1 year)
+IEEE International Workshop on Human Computer Interaction
+Member
+January 2003  -  December 2006 
+(4 years)
+General Chair at CIVR2003
+January 2003  -  December 2003 
+(1 year)
+International Conference on Image and Video Retrieval
+Program Chair
+January 2002  -  December 2002 
+(1 year)
+First International Conference on Image and Video Retrieval, London
+Researcher
+September 1989  -  December 1994 
+(5 years 4 months)
+The Beckman Institute for Advanced Science and Technology at the University of Illinois at Urbana-
+Champaign is an interdisciplinary research institute devoted to leading-edge research in the physical sciences,
+ computation, engineering, biology, behavior, cognition, and neuroscience.
+
+Experience
+Engineering Manager at Facebook
+February 2012  -  Present
+Building analytics infrastructure for Facebook's data warehouse. I work on problems related to scale, storage
+ and compute efficiency for the analytics infrastructure at Facebook.
+https://developers.facebooklive.com/videos/560/lifting-the-curtain-the-data-infrastructure-behind-facebook-
+apps
+http://gigaom.com/2013/06/06/facebook-unveils-presto-engine-for-querying-250-pb-data-warehouse/
+Principal Development Lead at Microsoft Corporation
+February 2010  -  March 2012 
+(2 years 2 months)
+SQL Server Engine - Workload optimization and Database Management, Scale out solutions
+Senior Development Lead at Microsoft Corporation
+January 2008  -  February 2010 
+(2 years 2 months)
+Bing Search relevance team
+Senior Software Engineer at Microsoft Corporation
+June 2002  -  December 2007 
+(5 years 7 months)
+Worked in the WinFS team on promotion of file properties into structured items. Also was a senior developer
+ in the SQL server database engine on the query plan cache.
+Member of Technical Staff at Oracle
+May 2001  -  May 2002 
+(1 year 1 month)
+Server manageability team. Built workload based advice views for the memory manager.
+Senior Software Engineer at Propel Software Corporation
+February 2001  -  May 2001 
+(4 months)
+Integration of a main memory database into the server of a B2C platform.
+
+Experience
+Software Engineer at Facebook
+November 2014  -  Present
+Engineer Staff II - Software Development Engineer at Broadcom
+July 2012  -  November 2014 
+(2 years 5 months)
+Customer Support
+Linux Kernel Driver Integration
+Secure OS Integration
+Google Android Qualification test (GTS and CTS tests)
+USB driver Qualification and Microsoft WHQL
+Power SI/ System SI Simulation
+Memory Qualification/Validation
+Web Development Intern at CBS Television Distribution
+September 2011  -  December 2011 
+(4 months)
+Ł This project is to rebuild the video streams management system to provide faster access and better user
+ interaction.
+Ł Rewrote the frontend using HTML, CSS, JavaScript, jQuery to improve the system interface and response
+ speed.
+Ł Implemented the backend by PHP and optimized the data structure using MySQL to increase data fetching
+ speed.
+Web Development Intern at Sony Pictures Entertainment
+June 2011  -  August 2011 
+(3 months)
+Ł Developed the web application Metadata Exporter for Crackle Admin Tool, which includes data fetching
+ from database, data analysis, data conversion and sending email with attachments.
+Page 
+2
+Ł Developed on Visual Studio and MS SQL Server platforms using ASP.NET, C#, jQuery, JavaScript,
+ HTML, CSS.
+Network Services Student Worker
+September 2010  -  May 2011 
+(9 months)
+Install OS and application software, configure BIOS, Ghost image, set up network connections (Novell),
+ computer maintenance, debug errors for users.
+
+Experience
+Software Engineer at Google
+August 2010  -  Present
+Datacenter Automation
+Principal Engineer, Telephony at LiveOps
+2007  -  August 2010 
+(3 years 8 months)
+Member of Technical Staff - Technical Lead
+August 2004  -  July 2007 
+(3 years)
+Member of Technical Staff at Juniper Networks
+2001  -  2004 
+(4 years)
+Member of Technical Staff
+2000  -  2001 
+(2 years)
+Member of Technical Staff - Technical Lead at SGI
+1994  -  1999 
+(6 years)
+Sr. Associate Programmer at IBM
+July 1989  -  1994 
+(5 years 6 months)
+
+Experience
+Architect at Cadence Design Systems
+August 2012  -  Present
+R&D Engineer at Synopsys
+April 2012  -  August 2012 
+(5 months)
+Supported QCPŽ during ramp down.
+Sr. Member of Consulting Staff at Magma Design Automation, Inc.
+June 2006  -  March 2012 
+(5 years 10 months)
+Principal software architect of MAGMA™s next-generation parasitic extraction tool QCPŽ.  Defined and
+ implemented the majority of the underlying data structures, geometric processing algorithms, parallelization
+ strategies, and parasitic modeling code. Responsible for the continued performance improvements with
+ respect to runtime, scalability and memory efficiency, as well as the implementation of and improvements to
+ the modeling code and the addition of new features as requested by our customers.
+Technologies: C++, STL, GDB,  GPROF, SunStudio, Purify, Coverity, ClearCase, Linux
+Staff Engineer at Sun Microsystems, Inc.
+July 2000  -  June 2006 
+(6 years)
+- Lead a team of 3 to 5 developers in the development, implementation, and qualification of a patternbased
+ 3D full chip parasitic interconnect extraction engine similar to Cadence/Simplex Fire & Ice. Defined the
+Page 
+2
+ overall server/client architecture for parallel execution, and specified the external interfaces and XML
+ broadcast protocols. A paper describing the architecture was submitted to DAC 2006. Was responsible for
+ the project planning and milestones. In particular designed and implemented the capacitance extraction
+ module including a novel extensible pattern matching framework. Correlated the capacitance module
+ against QuickCap and Simplex. Helped in the development of a Raphaelbased flow used for the automatic
+ generation of the capacitance lookup tables used in the patternbased extractor.
+- Implemented a C++ based GDSII scanner featuring a generic query language. This tool is used in many
+ extraction and physical design verification flows at Sun.
+- Maintained, supported, and further developed a Simplex based RC extraction flow. In particular
+ implemented a mixed extraction option, which for the first time allows parts of the design to be extracted
+ down to the transistor level while others remain grayboxed. Contributed fundamental building blocks to
+ the flow rewrite and helped in leading the team towards the development of a much more extensible and
+ maintainable code base.
+- Defined, implemented, documented, and maintained an incremental timing tool. This Perl based tool
+ utilized wire models for incremental capacitance and resistance extraction and timing reruns. The tool was
+ used for CTOs during tape out mode.
+- Implemented a poly resistance ERC rule check flow based on the Simplex Fire resistance extraction tool. A
+ patent application was filed in 2001.
+3D TCAD Development Engineer at Silvaco Data Systems
+October 1997  -  July 2000 
+(2 years 10 months)
+- Implementation of physicsbased models for backend processing, including etching, deposition, and
+ oxidation into Silvaco's 3D process simulator.
+- Code maintenance of parasitic interconnect extraction tool based on a 3D finite element field solver.
+- Development, implementation, and maintenance of the regression tests used in both the process and
+ interconnect simulators.
+
+Experience
+Eng Lead in Video Advertising
+2015  -  Present
+Working on improving the infrastructure and quality of video advertising on YouTube!
+Software Engineer on Android at Google
+2013  -  2015 
+(3 years)
+Making the Google Search App on Android a better experience, and eventually making our whole phone
+ much smarter by leveraging Google intelligence. 
+AdMob Quality at Google
+January 2011  -  2013 
+(3 years)
+Focused on improving the relevance of ads in mobile apps by building the next generation user models, ads
+ auction, pricing and budgeting system. Major launches included:
+ 
+- Launch of second price auction on AdMob: http://googlemobileads.blogspot.com/2012/02/admob-auction-
+enhancements.html
+- Smoothening budget constrained advertiser spend through the day leading to better auction competition and
+ gains in advertiser welfare. 
+- Selecting higher quality ads for budget constrained advertisers giving major improvements in advertiser
+ ROI and user experience. 
+- Improved click prediction models trained via large scale machine learning infrastructure leading to
+ significant revenue gains.
+Search Quality
+August 2005  -  August 2008 
+(3 years 1 month)
+- Significantly improved search quality of Google Video and YouTube by analyzing user click data,
+ experimenting with new ranking functions, preventing click spam, and balancing fresh video content against
+ established high quality videos.
+Page 
+2
+- Launched search feature improvements on YouTube by adding query suggestions, query reduction to make
+ long queries more effective and geo search giving users ability to find videos by location.
+- Worked on next generation system for monitoring Google services running on large clusters of machines by
+ creating engineering consoles and automating the storage of long-term monitoring data.
+
+Experience
+Software Engineer
+February 2015  -  Present
+Software Engineer at MediaTek
+August 2011  -  December 2012 
+(1 year 5 months)
+Developed LTE (4G) protocol stack
+Software Engineer Intern at MediaTek
+July 2010  -  September 2010 
+(3 months)
+Developed a mobile network packet encoding/decoding tool.
+Software Engineer Intern at Institute for Information Industry
+July 2009  -  September 2009 
+(3 months)
+Developed an online education system including front end and back end.
+
+Experience
+Senior Staff Software Engineer / Manager at Google
+February 2007  -  Present
+Technical lead manager for Native Ads, Creative Serving and Quality. 
+Uber tech lead for Machine Vision for Display Ads at Google, with specialties on image retrieval, ranking,
+ classification, recognition & enhancement at large-scale. 
+Technical lead for several Google Image Search features in the past, including Related Images and Search by
+ Image, and the key contributor for Similar Images and Image Swirl etc.
+Search by Image: http://youtu.be/t99BfDnBZcI
+Similar Images: http://youtu.be/6fD2t4d2Ln4
+Graduate student at Zhejiang University
+1998  -  2001 
+(4 years)
+
+Experience
+Audit Partner
+December 2011  -  Present
+Performing independent financial and compliance audits. If we can ensure a pleasant audit experience with
+ efficient, educational results, we have accomplished our goal.
+Audit Supervisor at Hansen, Barnett & Maxwell
+September 2005  -  January 2012 
+(6 years 5 months)
+Auditor
+April 2003  -  May 2005 
+(2 years 2 months)
+
+Experience
+Principal
+September 2013  -  Present
+Project Consultant: Boston Special Education Transition Project - B-SET for Career Network
+January 2014  -  Present
+Directed planning project for Massachusetts Advocates for Children to develop recommendations to
+ improve services for Boston youth with disabilities in transition from high school to work or post-secondary
+ education. Organized and managed cross sectoral 70 organization member  task force representing the
+ public schools, higher education and skills training programs, businesses, community based disability
+ service organizations, state agencies, youth development agencies, funders, organized labor, advocacy and
+ intermediary organizations. Co-authored action plan and recommendations released in October 2015. 
+Project Consultant
+March 2014  -  July 2014 
+(5 months)
+Conducted needs assessment at Lynn Community Health Center and Union Hospital as part of Healthcare
+ Workforce Transformation Fund grant. Goal was to provide a training program for frontline workers, which
+ would allow them to gain skills in effectively managing interactions with patients with behavioral issues and
+ others that pose potential safety threats
+Career Center Systems Manager at Boston Private Industry Council
+October 1996  -  July 2013 
+(16 years 10 months)
+Oversaw operations of three career centers in Boston serving over 25,000 customers by June 30, 2013.
+ Developed regional approach to and provided technical assistance in continuous quality improvement.
+ Developed and conducted all business and job seeker customer satisfaction activities including focus groups,
+ interviews and surveys. Analyzed service utilization, performance trends and outcomes and reported to the
+ PIC Board and subcommittees, state and federal government. Conducted annual review process.Served on
+ statewide work groups on various policy and operational topics including initial development of statewide
+ MIS and improvements in business services data tracking. Facilitated system integration work groups and
+ local and regional levels and convened several communities of practice among career center staff. Numerous
+ presentations to visitors from U.S and other countries as well as at state and national conferences.
+Quality Improvement Specialist
+August 1994  -  September 1995 
+(1 year 2 months)
+Page 
+3
+Responsible for developing and implementing the principles and practices of quality management to effect
+ large systems improvement for project client: Massachusetts Department of Public Health, Bureau of
+ Substance Abuse Services.
+- Conducted assessments of processes and performance at substance abuse treatment programs
+- Identified opportunities for improvement, provided technical assistance and evaluated impact
+Director, Organization Development & Training
+1990  -  1993 
+(4 years)
+Responsible for conception and implementation of a range of service excellence and CQI programs for 1,200
+ member workforce. Developed and implemented employee recognition programs. Provided training and
+ strategic departmental consultation to increase effectiveness of service delivery in a variety of departments
+ ranging from nursing to environmental services.
+Special Projects Consultation at Tufts Medical Center
+1987  -  1989 
+(3 years)
+Co-Founder
+April 1977  -  June 1983 
+(6 years 3 months)
+Shared responsibility for financial, philosophic and programmatic integrity of the first batterer intervention
+ agency in the United States. I served in nearly every role at the organization including development,
+ counseling and training coordinator and program developer. Emerge used a socio-political analysis of
+ battering to pioneer a behavioral approach to treatment that set the standard for the field and is widely
+ practiced. I also served as producer and fundraiser for film about Emerge, "To Have and To Hold."
+
+Experience
+Software Engineer at Google
+2003  -  Present
+
+Experience
+Senior Staff Software Engineer at Google
+November 2013  -  Present
+Engineer and Engineering manager - started, developed and launched products and services for Machine
+ Learning/AI, and Big Data tools. Cloud Machine Learning Engine (https://cloud.google.com/ml-engine) and
+ Cloud Datalab (https://cloud.google.com/datalab)
+Page 
+2
+Partner Software Architect, Windows Azure at Microsoft Corporation
+May 2012  -  October 2013 
+(1 year 6 months)
+- Working on Windows Azure application platform and tools
+- Building cloud services such as Windows Azure Mobile Services providing MBaaS/BaaS (mobile backend
+ as a service) capabilities to power modern applications across devices.
+- Incubating next-generation PaaS services in various spaces such as search, and machine learning/big data
+ scenarios.
+Partner Software Architect, Bing/Online Services at Microsoft Corporation
+September 2010  -  May 2012 
+(1 year 9 months)
+- Built local, social, mobile experiences bringing Bing search experiences to consumers across multiple
+ mobile phones/devices and platforms including iOS, Android, Windows Phone and mobile web through a
+ combination of native and HTML5-based solutions.
+- Contributed to architecture, and vision for next-generation Bing Information Platform, and APIs.
+Principal Software Architect, .NET Platform at Microsoft Corporation
+April 2005  -  September 2010 
+(5 years 6 months)
+- Led the inception, design and development of ASP.NET Ajax
+- Created Script#, a development tool for compiling C# into JavaScript, and powering large/application scale
+ development of script-based web applications.
+- Contributed a key role in the revamp of IIS7, Microsoft's Web Server product
+- Incubated and developed the early foundations of Silverlight and managed code programming model for
+ rich internet applications
+- Developed early vision, prototype and development of RIA Services, a Line of Business Application
+ development framework for Microsoft's .NET/Silverlight platforms and tools.
+Software Development Engineer Lead, ASP.NET, .NET Platform at Microsoft Corporation
+July 2000  -  April 2005 
+(4 years 10 months)
+- Led the design, and development of the .NET Framework, ASP.NET, Web Forms and the Server Control
+ framework from their inception through multiple releases.
+- Created foundational technology to provide the foundation for successful products such as Sharepoint.
+- Incubated and released Web Matrix, a development experience for Web sites and applications, leading to
+ technical and business innovation within Microsoft tools.
+Software Development Engineer, Visual Studio at Microsoft Corporation
+July 1997  -  July 2000 
+(3 years 1 month)
+- Designed and developed features for Visual Studio, Visual Basic and Visual InterDev, including the web
+ editing experiences for HTML/CSS/Script editing.
+Page 
+3
+
+Experience
+Staff Software Engineer at Google
+August 2016  -  Present
+Cloud Commerce/Service Platform
+Revamping the current multi-Cloud Commerce Platform, which powers billions dollar business for our
+ partners on AWS/Azure/GCP/Softlayer etc, to next generation on top of Google Cloud
+Staff Software Engineer at Google
+April 2014  -  August 2016 
+(2 years 5 months)
+Build cutting-edge Google scale shared data infrastructure. I worked/am working on:
+- Performance and efficiency across the stack
+- Generic BI solution for all Google DisplayAds products
+- Distributed SQL database and query engine
+- Data management and datawarehouse
+- Continuous data streams processing
+I'm also interested in could computation, cluster management, data visualization and internal productivity
+ tools.
+Senior Software Engineer at Google NewYork
+July 2008  -  March 2014 
+(5 years 9 months)
+Working for various projects in online advertising. Focus on Display Ad Platform from 2010:
+* Biggest Ad Exchange Platform
+* Yield Management For Sellside
+* Next Generation Display Ads Data Infrastructure 
+* Data Analysis / Data Visualization
+Software Engineer Intern at Google
+March 2008  -  May 2008 
+(3 months)
+Worked on advertiser related projects.
+Page 
+2
+Software Engineer Intern at Google
+July 2007  -  September 2007 
+(3 months)
+From July. 2007 to Sep. 2007 and From Mar. 2008 and May. 2008
+Working for online advertising related projects.
+
+Experience
+Staff Software Engineer at Google
+July 2005  -  Present
+2005 - 2015: Web Search spam team, received Google's "EMG Award". The group responsible for removing
+ or demoting the rank of undesirable documents in search results. Often considered 'adversarial optimization'
+ due to the fact that the outside world would respond and attempt to work around any changes made. Worked
+ on spam collaborations with products outside web search, including Blogger, Adsense, and Maps. Spoke at
+ several search conferences.
+2009: Received Google Founders award
+2015 - Present: Accelerated Mobile Pages (Google AMP), a web page format for mobile documents that
+ guarantees browser performance. TL of the AMP Validator and major contributor to the project. @Gregable
+ on github.
+Adventurer
+2004  -  Present
+Outdoors Highlights:
+2004: Week long, 75 mile hike on the Appalachian Trail in North Carolina
+2010: Summit Mt Kilimanjaro via Machame route, tallest peak in Africa (5,895 m)
+2011: 6-day, 50 mile, Yosemite High Sierra hike
+2014: Waterfall Ice Climbing in Lee Vining, CA
+2014: Summit Mt Rainier (4,392 m) on 6-day glacier skills course with IMG.
+2015: Waterfall Ice Climbing in Ouray, CO
+2015: 5-day canoe trip on Green River to the Confluence w/ Colorado River
+2016: 200 mile, 8-day Canoe trip on the Yukon River in Canada's Yukon Territory
+2017: Summit Mt Kosciuszko, tallest peak in Australia (2,228 m), via the chairlift route :-) 
+Page 
+2
+
+Experience
+Audit Partner at Eide Bailly LLP
+September 2013  -  Present
+Audit Partner at Hansen, Barnett & Maxwell
+February 1999  -  August 2013 
+(14 years 7 months)
+Intern
+December 1996  -  December 1998 
+(2 years 1 month)
+
+Experience
+VP of Engineering Google - Search Ads  at Google
+July 2003  -  Present
+Software Engineer
+Software Engineer
+February 2003  -  July 2003 
+(6 months)
+Software Engineer
+May 2002  -  February 2003 
+(10 months)
+Software Engineer building High Performance Column Based Database.
+Software Engineer at PeopleSoft
+June 2001  -  May 2002 
+(1 year)
+Software Engineer
+2000  -  2001 
+(2 years)
+Heterogenous database
+Software engineer at IBM
+1996  -  2000 
+(5 years)
+Query optimizer for DB2.
+Summer Intern at Hewlett-Packard Laboratories
+1991  -  1991 
+(1 year)
+TickerTAIP: The parallel RAID Array
