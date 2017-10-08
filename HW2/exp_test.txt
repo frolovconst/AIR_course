@@ -1,0 +1,333 @@
+
+Experience
+Software Engineer at Facebook
+June 2017  -  Present
+Working on Bots, Assistant, Conversational Intelligence.
+We are hiring experts in natural language understanding, speech technologies, and other deep learning areas.
+Senior Staff Software Engineering Manager
+August 2015  -  May 2017 
+(1 year 10 months)
+Working on Machine Intelligence in Google Reserch & MI. 
+The focus is to use on-device machine learning to build identity and authentication solutions (details are
+ confidential). I lead a team of machine learning researchers and engineers to advance the field of research
+ and to build production quality solutions to incorporate into Google products. 
+I'm also a member of the on-device machine intelligence leadership team and participate in defining and
+ executing strategies to advance Google hardware story.
+Senior Staff Software Engineer at Google
+April 2014  -  August 2015 
+(1 year 5 months)
+I worked on Google Cloud Platform (https://cloud.google.com/) from April 2014 and August 2015. I founded
+ and led the project to coordinate Google Cloud control plane functionalities including billing, monitoring,
+ logging, status check, quota, analytics, etc. We built the high performance, high availability service from
+ concept to general availability. The project is now a foundational component of Google Cloud Platform. 
+Software Architect / Partner Architect at Microsoft
+May 2007  -  March 2014 
+(6 years 11 months)
+Between 2007 and 2014 I was in a key leadership role of an ambitious technology incubation project that
+ rethinks the entire software stack. The project goal was to build a secure, reliable, and performant platform
+ for the next generation computing. My team owned many aspects of the system (with myself actively worked
+ on most of them), including:
+  * kernel component layering
+Page 
+2
+  * memory manager
+  * synchronization primitives
+  * IO interrupt dispatching
+  * resource accounting
+  * event tracing
+  * process isolation
+  * inter-process communication
+  * cache management
+  * device driver framework
+  * network stack
+  * cryptography and security
+  * web server
+  * server performance
+  * data center integration and management.
+Software Design Engineer/Architect at Microsoft
+March 2003  -  May 2007 
+(4 years 3 months)
+I created the Microsoft Math product (https://en.wikipedia.org/wiki/Microsoft_Mathematics) and led the
+ design and development. I developed most of the code in the computer algebra engine that has symbolic/
+numeric computation, equation solving, and 2D/3D graphing capabilities.
+Architect/Vice President Online Banking
+March 1998  -  February 2003 
+(5 years)
+Led the company's online banking unit. Our focus was to design, develop, and maintain online banking
+ software for retail and commercial banks.
+The company was acquired by Fidelity National Financial in 2003.
+
+Experience
+Senior Tax Associate
+June 2017  -  Present
+Tax Associate
+January 2015  -  Present
+Income tax preparation for individuals and entities, including partnerships, S corporations, and trusts; 
+Tax planning and analysis; 
+Reviews of client financials and books; 
+QuickBooks services; 
+Agency correspondence (IRS and state) and audit representation.
+Tax Associate at Tax Sentry
+January 2014  -  September 2014 
+(9 months)
+Prepared personal and business tax returns for clients who are starting up new businesses or looking to grow
+ existing businesses in various industries, including e-commerce, real estate, and investment trading.
+Contract Accountant
+January 2013  -  December 2013 
+(1 year)
+Prepared personal tax returns for clients using Taxware. Performed data entry and bank reconciliations for
+ clients in QuickBooks. Advised management in technological and organizational matters.
+Page 
+2
+Sales Programmer at Imagine Learning
+November 2010  -  April 2012 
+(1 year 6 months)
+Responsible for the creation and maintenance of tools and software in support of sales operations.
+ Administrator for NetSuite, the company CRM. Involved in developing dashboards and reports to meet the
+ business intelligence needs of the organization. Primary development within the NetSuite framework and
+ with SSRS using languages including JavaScript and SQL.
+Signal Processing Engineer/Data Analyst at Applied Signal Technology
+2009  -  2010 
+(2 years)
+Software integration and configuration management of legacy code. Data and performance analysis for radar
+ systems and signal processing models and algorithms
+Signal Processing Engineer at Lockheed Martin
+2005  -  2009 
+(5 years)
+Involved in algorithm development, baseline code generation, software maintenance and test, and the
+ creation of tools to analyze data and performance. Worked with radar and image processing algorithms to
+ form imagery and other intelligence products and regulary utilized MATLAB, FORTRAN, C, and other
+ programming and scripting languages.
+Student Test Engineer
+2003  -  2005 
+(3 years)
+Worked in design and test for home automation and lighting system components including prototyping,
+ debugging, and repair. Developed strong soldering and test equipment skills and gained exposure to
+ engineering design.
+
+Experience
+Software Engineer at Google
+May 2016  -  Present
+Working on Google Maps photo upload.
+Software Engineer at YouTube
+March 2015  -  April 2016 
+(1 year 2 months)
+# Launched Official Artist Channels                                                          
+# Improved internal tool for searching music entities.      
+# Set up back-end pipeline jobs using Python/Mapreduce.
+# Designed and set up experimental study for two YouTube Music projects.
+UI/UX Designer Intern
+July 2013  -  August 2013 
+(2 months)
+ŁUser experience for RoomHints ios APP
+ŁConduct market research of App market about home decorator and style.
+ŁDesign and Wireframe concepts for RoomHints.
+ŁBuild RoomHints prototype.
+ŁImplement front-end design.
+ŁMarket Roomhints app online.
+
+Experience
+Software Engineer at Google
+August 2010  -  Present
+Datacenter Automation
+Principal Engineer, Telephony at LiveOps
+2007  -  August 2010 
+(3 years 8 months)
+Member of Technical Staff - Technical Lead
+August 2004  -  July 2007 
+(3 years)
+Member of Technical Staff at Juniper Networks
+2001  -  2004 
+(4 years)
+Member of Technical Staff
+2000  -  2001 
+(2 years)
+Member of Technical Staff - Technical Lead at SGI
+1994  -  1999 
+(6 years)
+Sr. Associate Programmer at IBM
+July 1989  -  1994 
+(5 years 6 months)
+
+Experience
+Software Engineer at IGT
+August 2012  -  Present
+Software Engineer at Cantor Gaming
+August 2010  -  August 2012 
+(2 years 1 month)
+Mobile game development.
+Technology/Language: C++, C#, OpenGL ES, Android NDK
+Ł Responsible for development and support of company™s Windows mobile & PC Gaming application.
+Ł Responsible for porting of company's Gaming application to Android using NDK.
+Research Intern at Boston Scientific
+May 2009  -  July 2009 
+(3 months)
+Technology/Language: C#, .NET CF 3.5, Python, Windows Mobile 6.1
+Project Responsibilities:
+Ł Add a new feature to existing Desktop Python application to collect data from and program medical device.
+Ł Identify mobile platform & mobile with USB host functionality.
+Ł Get the mobile phone to recognize and communicate with USB CC1111 device through serial port.
+Ł Develop mobile application to collect data from and program the device through serial port.
+Ł Preparing low level analysis & design documents, and code documentation.
+Software Engineer at Azingo Inc. (formerly Celunite Inc.)
+December 2006  -  August 2008 
+(1 year 9 months)
+Technology/Language: C, GObject/Glib Framework, Gtk+
+Platform: Ubuntu 6.10 Linux Kernel (2.6.14) x86 and ARM scratchbox, TI OMAP-850 dual processor board.
+Project:
+Responsible for developing UI framework for Azingo Linux mobile platform to facilitate application
+ developers to develop highly optimized high performance mobile applications.
+Page 
+2
+
+Experience
+Senior Software Engineer at Google
+2007  -  Present
+Software Engineer at Google
+July 2007  -  December 2009 
+(2 years 6 months)
+
+Experience
+Engineering Director at Facebook
+December 2009  -  Present
+I support the following teams:
+Ł UI Infrastructure for Web, iOS, and Android
+Ł Design Tools
+Ł Accessibility 
+Ł Relay and JS Performance Infrastructure
+Ł Marketing/Brand Engineering
+I also own the recruiting pipeline for front-end engineers across all platforms.
+Product Designer at Facebook
+June 2007  -  February 2010 
+(2 years 9 months)
+I was the designer on Growth in 2007 and the designer on Ads from 2008 until 2010.  I designed many of
+ Facebook's early ad units and ad management interfaces.
+Products that I designed and implemented:
+Ł New user registration 
+Ł Friend finder 
+Ł Email campaigns
+Ł Ads creation
+Ł Ads management
+Ł Ad units
+Software Engineering Intern at Intuit
+June 2006  -  June 2007 
+(1 year 1 month)
+Quickbooks UI
+Software Engineering Intern at LuraTech GmbH
+June 2005  -  September 2005 
+(4 months)
+Built a Windows printer driver.
+Page 
+2
+
+Experience
+Engineer at Google, Inc
+July 2012  -  Present
+Senior Engineer at Luminate Inc
+September 2010  -  July 2012 
+(1 year 11 months)
+Senior Engineer at Pixazza Inc
+September 2010  -  August 2011 
+(1 year)
+Principal Engineer / Scrum Master at LiveOps
+November 2009  -  September 2010 
+(11 months)
+Staff Engineer at LiveOps
+April 2008  -  November 2009 
+(1 year 8 months)
+Senior Engineer at LiveOps
+February 2006  -  April 2008 
+(2 years 3 months)
+Senior Principal Wireless Platform Enterprise Software Architect at Telephia
+January 2004  -  April 2006 
+(2 years 4 months)
+Page 
+2
+Mike McCreavy
+Engineer at Google, Inc
+Contact Mike on LinkedIn
+
+Experience
+CEO
+Page 
+2
+Danny LeBlanc
+CEO at Somerville Community Corporation
+Contact Danny on LinkedIn
+
+Experience
+Staff Software Engineer at Google
+2014  -  Present
+Software Engineer at Google
+2010  -  2014 
+(5 years)
+Software Engineer at Google
+2007  -  2010 
+(4 years)
+Intern at Motorola Mobility
+March 2006  -  September 2006 
+(7 months)
+Intern at Intel Corporation
+May 2004  -  August 2004 
+(4 months)
+
+Experience
+Software Engineer at Google
+July 2016  -  Present
+
+Experience
+Staff Software Engineer, Tech Lead at Waymo
+January 2017  -  Present
+Staff Software Engineer at Google
+August 2012  -  December 2016 
+(4 years 5 months)
+Latest: Work on 3D perception, computer vision, and machine learning for the self-driving car project in
+ Google. 
+Previous: Research and develop computer vision and machine learning techniques to improve the ranking
+ quality of Google Image Search.
+Research Intern at Gracenote
+June 2010  -  August 2010 
+(3 months)
+Research Intern at Eastman Kodak
+May 2009  -  August 2009 
+(4 months)
+
+Experience
+Software Engineer at Google
+July 2006  -  Present
+
+Experience
+Audit Partner at Eide Bailly LLP
+September 2013  -  Present
+Audit Partner at Hansen, Barnett & Maxwell
+February 1999  -  August 2013 
+(14 years 7 months)
+Intern
+December 1996  -  December 1998 
+(2 years 1 month)
+
+Experience
+Partner at HGG Advisors
+October 2015  -  Present
+Finance at Elevate Practices
+October 2015  -  Present
+Audit Manager at HintonBurdick CPAs & Advisors
+January 2014  -  October 2015 
+(1 year 10 months)
+Audit Manager at Deloitte & Touche
+September 2008  -  January 2014 
+(5 years 5 months)
+
+Experience
+Director of Operations
+December 2014  -  Present
+thecabot.org
+Director of Property Management at Harborlight Community Partners
+November 2002  -  February 2016 
+(13 years 4 months)
+Projectionist and Assistant Manager
+2006  -  2012 
+(7 years)
+Project & Production Manager at Eastman Kodak
+1981  -  1998 
+(18 years)
