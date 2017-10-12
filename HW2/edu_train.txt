@@ -25,6 +25,38 @@ Contact Michael on LinkedIn
 
 
 Education
+Southern Utah University
+MS Accounting (MAcc), Taxation, 2014 - 2014
+Utah Valley University
+Bachelor of Science (BS), Accounting, 2012 - 2014
+Arizona State University
+Graduate Studies in Electrical Engineering, Signal Processing and Communications, 2008 - 2011
+Brigham Young University
+BS Electrical Engineering, Signals and Systems, 1999 - 2005
+Activities and Societies: 
+BYU Symphony Orchestra
+Page 
+3
+Mike Laudie, CPA
+Tax Associate at Canopy
+Contact Mike on LinkedIn
+
+
+Education
+New York University
+Master of Science (MS), Computer Science, 2012 - 2014
+Shandong University
+Bachelor of Engineering (B.Eng.), Software Engineering, 2008 - 2012
+Shandong University
+Bachelor of Ecomonics, Finance, General, 2008 - 2012
+Page 
+2
+Vivienne Bu
+Software Engineer at Google
+Contact Vivienne on LinkedIn
+
+
+Education
 Zhejiang University
 B.S., Computer Science, 1996 - 2000
 University of California, Davis
@@ -72,22 +104,6 @@ Contact Kiran on LinkedIn
 
 
 Education
-University of Wisconsin-Madison
-Page 
-2
-MS, Computer Science, 1999 - 2001
-College of Engineering Guindy, Chennai
-B.E., Computer Science, 1995 - 1999
-Vanavani
-High School, Science, 1983 - 1995
-Page 
-3
-Sambavi Muthukrishnan
-Engineering Manager at Facebook
-Contact Sambavi on LinkedIn
-
-
-Education
 University of California, Berkeley
 BS, EECS, 1991 - 1995
 Page 
@@ -95,18 +111,6 @@ Page
 Patrick Tjin
 Software Engineer at Google
 Contact Patrick on LinkedIn
-
-
-Education
-University of Southern California
-Master of Science (M.S.), Electrical Engineering, 2010 - 2012
-Xiamen University
-Bachelor of Engineering (B.E.), Electronica Information Science and Technology, 2006 - 2010
-Page 
-3
-Wenying Li
-Software Engineer at Facebook
-Contact Wenying on LinkedIn
 
 
 Education
@@ -126,6 +130,16 @@ Page
 Jon Hathaway
 Founder & CEO at HATech LLC
 Contact Jon on LinkedIn
+
+
+Education
+Rochester Institute of Technology
+Bachelor of Science, Computer Science, 1984 - 1989
+Page 
+2
+Gregory Poist
+Software Engineer at Google
+Contact Gregory on LinkedIn
 
 
 
@@ -163,40 +177,6 @@ Page
 Bharat Kumar
 Staff Software Engineer at Google
 Contact Bharat on LinkedIn
-
-
-Education
-University of Utah
-Bachelor of Arts (BA), Accounting, 1980 - 1985
-Page 
-2
-Mark E. Elwood, CPA
-Partner at Sadler, Gibb & Associates, LLC
-Contact Mark E. on LinkedIn
-
-
-Education
-University of Washington
-M.S., Computer Science and Engineering, 2003 - 2005
-Indian Institute of Technology, Delhi
-B Tech, Computer Science and Engineering, 1999 - 2003
-Page 
-3
-Ankur Jain
-Principal Engineer (Director) at Google
-Contact Ankur on LinkedIn
-
-
-Education
-Institute of Management and Business
-Master, Computer Science and Management, 1997 - 2000
-First Technical College
-AA, Machine Tool CNC Operation and Troubleshooting, 1994 - 1996
-Page 
-3
-Alex Landa
-IT Engineer at Qualcomm
-Contact Alex on LinkedIn
 
 
 Education
@@ -275,6 +255,24 @@ Contact Angela on LinkedIn
 
 
 Education
+Stanford University
+Master of Science (M.S.), Computer Science, 2006 - 2007
+Stanford University
+Bachelor of Science (B.S.), Computer Science, 2002 - 2006
+Activities and Societies: 
+Stanford Ultimate Frisbee Team (4-time national semifinalist)
+Leesville Road High School
+1998 - 2002
+Activities and Societies: 
+Founded Ultimate Frisbee Team
+Page 
+3
+Nan Gao
+Engineering Director at Facebook
+Contact Nan on LinkedIn
+
+
+Education
 Westminster College
 MBA, Accounting, 1997 - 1999
 Page 
@@ -325,6 +323,8 @@ Page
 Fei Li
 Data Scientist at Google
 Contact Fei on LinkedIn
+
+
 
 
 
@@ -411,6 +411,8 @@ SDE II Amazon Video
 Contact Shyam Krishnan on LinkedIn
 
 
+
+
 Education
 Harvard University
 MTS, Islamic Studies, 2006 - 2008
@@ -493,27 +495,6 @@ Contact Michael on LinkedIn
 
 
 Education
-University of Massachusetts Boston
-Doctor of Philosophy (Ph.D.), Counseling Psychology, 2014 - 2019
-Tufts University School of Medicine
-Master of Public Health, Epidemiology and Biostatistics, 2006 - 2008
-Activities and Societies: 
-Inducted into public health honor society Delta Omega, 2008. Recipient of Tufts
- University Faculty Scholarship, 2006-2008.
-Smith College
-A.B. cum laude, Psychology, minors in English and History, 1999 - 2003
-Activities and Societies: 
-Inducted into psychology honor society Psi Chi, spring 2002. Editor-in-Chief of
- news website The Smith Daily Jolt, 2001-2003. Dean's List all semesters of undergraduate study. First Group
- Scholar.
-Page 
-5
-Bonnie Andrews
-Doctoral Candidate, Counseling Psychology
-Contact Bonnie on LinkedIn
-
-
-Education
 Columbia University - Fu Foundation School of Engineering and Applied Science
 Master Student, Computer Science, 2014 - 2015
 Zhejiang University
@@ -531,6 +512,28 @@ Contact Yun on LinkedIn
 
 
 Education
+Shanghai Jiao Tong University
+Master's degree, Computer Science, 2004 - 2007
+Shanghai Jiao Tong University
+Bachelor's degree, Computer Science, 2000 - 2004
+Page 
+2
+Renjie Jiang
+Staff Software Engineer at Google
+Contact Renjie on LinkedIn
+
+
+Education
+University of Southern California
+Master™s Degree, Electrical and Electronics Engineering
+Page 
+2
+Aria Xu
+Software Engineer at Google
+Contact Aria on LinkedIn
+
+
+Education
 William James College
 Psy.D., Organizational Development, 1983 - 1990
 Northeastern University
@@ -544,20 +547,6 @@ Page
 Isidore Penn, Psy.D.
 Principal at Organization Consulting Service
 Contact Isidore on LinkedIn
-
-
-Education
-Stony Brook University
-MS, Electrical Engineering, 1983 - 1988
-Indian Institute of Technology, Kharagpur
-B Tech, Electrical Engineering, 1978 - 1983
-Activities and Societies: 
-Bridge, Water Polo English and Hindi Plays.
-Page 
-3
-Nat Gurumoorthy
-Member Technical Staff at Google Mountain View
-Contact Nat on LinkedIn
 
 
 Education
@@ -605,6 +594,22 @@ Contact Nikhil on LinkedIn
 
 
 Education
+Princeton University
+PhD, Computer Science, 2000 - 2006
+University of Southern California
+Master's degree, Computer Science, 1998 - 2000
+Shanghai Jiao Tong University
+BS, Computer Science, 1995 - 1998
+Xiang Ming middle school
+Xiang Ming middle school
+Page 
+2
+Ruoming Pang
+Principal Software Engineer at Google
+Contact Ruoming on LinkedIn
+
+
+Education
 Stanford University
 BS and BA, Computer Science/Economics
 University of Minnesota-Twin Cities
@@ -614,19 +619,6 @@ Page
 Vik Gupta
 Senior Engineering Director at Google
 Contact Vik on LinkedIn
-
-
-Education
-Sun Yat-Sen University
-Undergraduate, Computer, 2004 - 2008
-Activities and Societies: 
-Maintainer of Sun Yat-Sen University's BBS Network Information Center Cisco
- Team Maxcell Online East
-Page 
-3
-Jiaxin Huang
-Staff Software Engineer at Google Cloud
-Contact Jiaxin on LinkedIn
 
 
 Education
@@ -678,29 +670,6 @@ Contact Aleksandar on LinkedIn
 
 
 Education
-Suffolk University
-Bachelor of Science, Communications & Journalism, 1988 - 1996
-Activities and Societies: 
-Forensics Team, Deabate and Individual Events - National Forensics Association,
- Three-time Dean's List recipient
-Suffolk University
-Bachelor of Science, Communication, 1988 - 1996
-Activities and Societies: 
-Forensics Team
-Melrose High School
-High School Diploma, Psychology, 1985 - 1988
-Page 
-4
-Honors and Awards
-Louis B. Connelly Award for Outstanding Communication and Journalism Alumni
-Page 
-5
-David D'Arcangelo
-Director, Massachusetts Office On Disability
-Contact David on LinkedIn
-
-
-Education
 Columbia University in the City of New York
 Master of Science (M.S.), Electrical and Computer Engineering, 2012 - 2013
 Activities and Societies: 
@@ -726,6 +695,18 @@ Contact Mengjie on LinkedIn
 
 
 Education
+Southern Utah University
+MAcc, Accounting, 2003 - 2008
+Wasatch high school
+1997 - 2001
+Page 
+2
+David Gertsch
+Partner at Elevate Practices and HGG Advisors
+Contact David on LinkedIn
+
+
+Education
 New England School of Acupuncture
 Master of Acupuncture, Chinese and Japanese Acupuncture, 2010 - 2015
 Page 
@@ -736,22 +717,15 @@ Contact Jasmine on LinkedIn
 
 
 Education
-Carnegie Mellon University
-MSISTM, Computer Systems and Security, 2011 - 2013
-College of Engineering Pune
-Bachelor of Technology, Information Technology, 2006 - 2010
+Clarkson University
+BS, Mechanical Engineering, 1977 - 1981
+Activities and Societies: 
+Alpha Phi Omega, Pi Tau Sigma
 Page 
 2
-Activities and Societies: 
-Ladies Representative: Boat Club Management Committee Regatta Management
- Committee
-Jnana Prabodhini Prashala
-5th to 10th grade, 1998 - 2004
-Page 
-3
-Prachi Hande
-Software Engineer at Google
-Contact Prachi on LinkedIn
+Bob Stoneham
+Director of Operations at The Cabot
+Contact Bob on LinkedIn
 
 
 Education
@@ -829,17 +803,6 @@ Page
 Shivakumar Venkataraman
 VP of Engineering Google - Search Ads
 Contact Shivakumar on LinkedIn
-
-
-Education
-Princeton University
-Chinese Academy of Sciences
-Harbin Institute of Technology
-Page 
-2
-Chi Zhang
-Senior Staff Software Engineer at Google
-Contact Chi on LinkedIn
 
 
 Education

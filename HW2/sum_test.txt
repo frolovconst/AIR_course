@@ -3,23 +3,14 @@ Summary
 N/A
 
 Summary
-Mike is a results-oriented engineer-turned-accountant who is looking to leverage his technical background and
- aptitude for understanding challenging concepts to successfully help clients with their taxation and accounting
- needs. 
-Mike is a quick learner and has learned to teach himself skills and concepts without formal training. Although,
- as an engineer, Mike has a strong aptitude for understanding how things work, he has found a much greater
- drive for solving problems, especially those of his clients and associates. This passion and his personal
- dedication to understand challenging problems and achieve personal and team objectives are the driving
- motivators in his daily professional endeavors.
-Specialties: Income Tax Preparation (including partnership and corporate taxation), Business Intelligence,
- NetSuite (CRM), MS Office/Windows
-
-Summary
-Google/YouTube SWE. 
-Not interested in new opportunities at this moment. Thank you.
-
-Summary
 N/A
+
+Summary
+Specialties: Languages: C, C++, Java, HTML, CSS, JavaScript, AJAX, jQuery, PHP, SQL, C#, ASP.NET,
+ ASP, VBScript, Perl
+Applications: Microsoft Office, Visual Studio, Eclipse, NetBeans, Dreamweaver, phpMyAdmin, Keil, Protel,
+ Photoshop 
+Web Servers and Databases: Apache, Tomcat, IIS; mySQL, Oracle, MS SQL Server, MS Access
 
 Summary
 Ł About four years of mobile development experience.
@@ -29,7 +20,31 @@ Summary
 N/A
 
 Summary
-N/A
+Designed and implemented the first Google Global Cache (GGC, a CDN platform embedded in operator
+ networks). Over time, led Google™s Content Delivery Network (CDN) efforts including GGC and oversaw
+ the CDN grow its scale several orders of magnitude into one of the largest in the world with GGC deployed
+ today by several hundreds of carriers globally. Instrumental in bringing Software Defined Networking (SDN)
+ and Network Function Virtualization (NFV) concepts to Google™s traffic engineering and edge networking
+ infrastructure. Leading projects over the last few years that enable wireless operators to run their networks
+ more efficiently. 
+I'm also on the board of the open-source project CORD which aims to bring datacenter economics and cloud
+ agility to the Telco Central Office. I hold more than a dozen patents and conference papers filed/granted/
+published. My closest potential shot at stardom though was when I went to Los Angeles in 2013 as part of the
+ team that collected the 65th Primetime Emmy Engineering Award for YouTube; but a couple of years later I
+ am still at Google :P
+Domain Expertise: Connectivity, Internet access, Wireless, CDN, Content Distribution, SDN, Wireless
+ Performance, Mapping, TCP, Caching, DNS, Load Balancing, Large-scale Distributed Systems, Networking,
+ Internet Measurements, Routing.
+Functions: Engineering lead. Centrally involved in product, strategy, project management and partnerships.
+
+Summary
+Customer focused with dedication to regulations and guide lines. Fast learner.
+Have recent experience in software troubleshooting, maintenance, and installation on Windows XP and 7
+ Professional, VM Ware ESX and Fusion, Mac OSX and Linux Red Hat and Ubuntu platforms.
+Experience in hardware and software installation, maintenance, and troubleshooting, on Windows, Linux and
+ UNIX based platforms
+LAN and wireless infrastructure support as well as interaction with WAN
+Experience in multimedia educational software quality assurance.
 
 Summary
 N/A
@@ -44,8 +59,8 @@ Summary
 N/A
 
 Summary
-N/A
-
+Online advertising/Data/Cloud related engineering experience. Co-working with Marketing/Sales team for
+ various products.
 
 Summary
 Extensive experience providing assurance services to public companies, private companies and governmental
@@ -53,9 +68,31 @@ Extensive experience providing assurance services to public companies, private c
 Specialties: Assurance services
 
 Summary
-Experienced Finance with a demonstrated history of working in the dental accounting industry. Skilled in cloud
- based accounting, financial statements, small business entity structuring, and tax. Strong finance professional
- with a MAcc from Southern Utah University.
+David D™Arcangelo is Director of the MassachusettsOffice On Disability and is a Malden City Councilor At-
+large.
+David is considered one of the Commonwealth's most prolific political activists and was the 2014 Republican
+ nominee for Secretary of State. 
+David was also Managing Director for Arc Angel Communications and Adjunct Faculty at Suffolk University.
+With over 22 years of professional experience, David has been the catalyst for a large number of successful
+ public endeavors including winning political campaigns, corporate turnarounds and non-profit triumphs.  
+Having served five Governors and as an aide in the State Senate, David is one of only a handful of public
+ servants to have inside working knowledge of both the Executive and Legislative branches of Massachusetts
+ State Government.  Appointed by Governor Mitt Romney to the Mass. Commission for the Blind Rehab
+ Council and reapponited by Governor Patrick, David is considered a leading authority on public policy
+ issues regarding disabilities.  He has also served in leadership positions for several Boards and Commissions,
+ which has helped to make David one of the most trusted and respected sources for public affairs and civic
+ information. 
+David™s private sector experience is highlighted by the incredible transformations of a companies that were
+ losing money and now, through David™s expertise, are turning a profit.  A polished public speaker, writer
+ and team player, David has demonstrated strengths in: Writing, Financial Management, Issue Advocacy,
+ Technology Integration, Public Policy, Campaign Management, Team Leadership and Event Organization. 
+David has an impressive 3-0 record as a Campaign Manager and ran one of the most successful State Senate
+ campaigns in state history.  His innovative plan for ﬁSunsetting Campaign Warchestsﬂ has been editorialized
+ and received critical acclaim, as has his Constitutional amendment to alter the Massachusetts Constitutional
+ amendment process.
+
+Summary
+N/A
 
 Summary
 N/A
