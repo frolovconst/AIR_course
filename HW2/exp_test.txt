@@ -1,5 +1,83 @@
 
 Experience
+Member
+2015  -  Present
+Member
+2013  -  Present
+http://www.sigmm.org
+Editor-in-Chief
+2012  -  Present
+http://www.springer.com/13735
+Chair
+2011  -  Present
+http://www.mirsociety.org
+Director of Multimedia Retrieval and Deep Learning at Leiden University
+September 2005  -  Present
+Chair Professor of Computer Science at Tsinghua University
+2003  -  Present
+Research and teaching in content based analysis of multimedia
+Professor (mid-level, tenured, "Universitair hoofddocent") at Leiden University
+January 2001  -  Present
+Page 
+2
+Chair
+2009  -  2015 
+(7 years)
+The ACM International Conference on Multimedia Retrieval is the leading conference on multimedia search
+ and retrieval worldwide.  It is the main forum for researchers and practitioners to share their ideas, insights,
+ and discoveries and set future directions for the community.
+General co-chair
+January 2010  -  December 2010 
+(1 year)
+IEEE PCM 2010 is the major annual international conference organized as a forum for the dissemination of
+ state-of-the-art technological advances and research results in the fields of theoretical, experimental, and
+ applied multimedia analysis and processing.
+General Chair
+January 2008  -  December 2008 
+(1 year)
+ACM International Conference on Multimedia Information Retrieval
+Chair at IEEE HCI2007
+January 2007  -  December 2007 
+(1 year)
+IEEE International Workshop on Human Computer Interaction
+Member
+January 2003  -  December 2006 
+(4 years)
+General Chair at CIVR2003
+January 2003  -  December 2003 
+(1 year)
+International Conference on Image and Video Retrieval
+Program Chair
+January 2002  -  December 2002 
+(1 year)
+First International Conference on Image and Video Retrieval, London
+Researcher
+September 1989  -  December 1994 
+(5 years 4 months)
+The Beckman Institute for Advanced Science and Technology at the University of Illinois at Urbana-
+Champaign is an interdisciplinary research institute devoted to leading-edge research in the physical sciences,
+ computation, engineering, biology, behavior, cognition, and neuroscience.
+
+Experience
+Software Developer at Helpshift
+March 2011  -  Present
+Polyglot Programmer
+Software Engineer II at Cisco Systems
+May 2010  -  February 2011 
+(10 months)
+Software Engineer II
+Software Engineer at Motorola Mobile Devices
+March 2010  -  May 2010 
+(3 months)
+Software Engineer
+Page 
+2
+Software Engineer at Azingo softsystems India Pvt Ltd
+July 2008  -  May 2010 
+(1 year 11 months)
+Software Engineer
+
+Experience
 Engineering Manager at Airbnb
 June 2017  -  Present
 Staff Engineer at Airbnb
@@ -27,398 +105,84 @@ October 2010  -  April 2014
  population genetics
 
 Experience
-Principal Engineer at Google
-June 2005  -  Present
-Connectivity (2013 onwards) - 
-https://blog.google/topics/internet-access/partnering-toward-next-generation-mobile-networks/
-https://youtube-eng.googleblog.com/2016/04/announcing-mobile-data-plan-api.html
-https://policybythenumbers.googleblog.com/2015/09/information-sharing-for-more-efficient.html
-http://onosproject.org/2016/07/26/on-lab-and-the-linux-foundation-form-cord-project-to-define-the-future-of-
-access/
-https://blog.google/topics/internet-access/bringing-the-internet-to-more-indians/
-http://www.gadgetsnow.com/sundar-pichai-at-iit-kharagpur-toi-travels-with-google-ceo-sundar-pichai-to-iit-
-kharagpur/liveblog/56347635.cms#clschng56351587
-Page 
-2
-Software Defined Networking/Network Virtualization (2011 onwards) - 
-https://www.theregister.co.uk/2017/04/04/google_serves_espresso_linkups_for_cloud/
-https://blog.google/topics/google-cloud/making-google-cloud-faster-more-available-and-cost-effective-
-extending-sdn-public-internet-espresso/
-https://blog.google/topics/internet-access/partnering-toward-next-generation-mobile-networks/
-Content Delivery (2005 - 2014) - 
-https://peering.google.com/#/infrastructure
-http://www.emmys.com/news/press-releases/winners-announced-65th-primetime-emmy-engineering-awards
-
-Experience
-President
-September 2006  -  Present
-Silvermansells Real Estate Company has been selling Real Estate all over the South Shore and Greater
- Boston for many years now. We are measured and committed to one client at a time, with attention to
- personal detail.  We are knowledgeable in all facets of the Real Estate Industry.  Please take a moment and
- preview our recommendations.
-President
-1976  -  Present
-Trained in the manufacturing and installation of Aluminum doors and Entrances as well as all other flat glass
- related products. 
-Please see web-site for additional references and details. 
-FixMyBrokenGlass.Com
-
-Experience
-Associate Professor of Civil and Environmental Engineering at Virginia Tech
-June 2015  -  Present
-Research interests:  control of pollutants arising from construction operations and the built environment.
- Healthy Homes and Schools. Pollution Prevention Planning.  Prevention through Design innovations to
- control hazards.
-President and CEO
-August 2014  -  Present
-Providing consultation, design, training, and expert witness services in the areas of industrial hygiene,
- environmental compliance, and industrial process system design.
-www.dickersonenvironmental.com
-Assistant Professor at Virginia Tech
-August 2007  -  June 2015 
-(7 years 11 months)
-
-Experience
-Data Scientist at Google
-January 2015  -  Present
-Data Scientist at Microsoft
-January 2014  -  January 2015 
-(1 year 1 month)
-Research Assistant at University of Southern California, San Francisco Department of Aging and Adult
-Services
-January 2013  -  December 2013 
-(1 year)
-# Develop a logic model to evaluate the impact of Internet on users™ lives and the effectiveness of broadband
- adoption programs in senior community centers. 
-# Design a 50-item survey and structured interview protocol, conduct focus groups to collect 500+ users™
- perceptions on the program quality, short-term and long-term impacts on their lives.
-# Perform both quantitative and qualitative analysis tools to identify facilitators, barriers and provide
- recommendations.
-Research Assistant, USC Health System Engineering Lab at University of Southern California
-April 2012  -  December 2013 
-(1 year 9 months)
-# Develop an analytical model to evaluate Electronic Health Record (EHR) system performance,
- implementation process, users™ adoption, its work impact and the multi-layer path diagram indicating the
- complex relationships.
-# Design a 70-item survey instrument and conduct it by online distribution and phone interviews, reaching
- out to 1000+ physicians, with approximately 20% respond rate.
-Page 
-2
-# Transform data into actionable information using data mining and identify key success factors in system
- design and organizational strategy during implementation. 
-# Perform statistical analysis to test the model empirically in order to be used as a diagnostic and predicative
- tool in health IT industry.
-Intern, Business Analyst and Quality Engineer at Spirent Communications
-June 2013  -  August 2013 
-(3 months)
-# Design SQL and report modules in Cognos and Siebel upon business demands, which transforms data into
- business information.
-# Create a real-time dashboard with decision support tools using VBA, which consolidates data from diverse
- sources in entire quality department and could be updated automatically; it frees up to 60 hours of  staff time
- monthly from manual data manipulation and improve quality accuracy by 15%.
-# Develop detailed and summary reports, tracking key performance indicators and utilized for future strategic
- decision making.
-Research Assistant
-September 2012  -  December 2012 
-(4 months)
-# Designed electronic registry to facilitate risk-based intervention and to enable entire care team to provide
- seamless service, as a result, to improve patients™ perinatal depression outcomes.
-# Conducted organizational EHR go-live readiness assessment, created swim-lane workflow of whole clinic
- and lead the workflow reengineering project.
-Intern, Project Management at Kareo
-June 2012  -  August 2012 
-(3 months)
-# Analyzed market of current social healthcare products and identify key successful features.
-# Designed the features and prototyped all use cases of the beta version of a healthcare social network site to
- improve patient engagement.
-Intern, Quality Improvement
-June 2010  -  July 2011 
-(1 year 2 months)
-# Assisted implementation of lean management system and standardization of the workflow, which improved
- process and freed 61 hours of staff time from belongings documentation.
-# Identified problems and miscommunication in current information system after observing more than 10
- major departments, which decreased the number of operational mistakes by 15%.
-Research Assistant at University of Southern California, RAND
-January 2010  -  May 2011 
-(1 year 5 months)
-# Developed reference taxonomy of eleven common clinical workflows, specifying up to four levels.
-# Indicated opportunities in the workflow where Clinical Decision Support (CDS) tools are useful and can be
- designed.
-Page 
-3
-
-
-Experience
-Senior Product Quality Engineering Manager at Google
-June 2015  -  Present
-Senior Manager of Product Quality Engineering at Amazon Lab126
-November 2011  -  June 2015 
-(3 years 8 months)
-Led Product Quality Engineering organization for Lab126 Amazon's elite product development organization.
-  Successfully delivered Quality improvement by influencing Design, Material and Manufacturing decisions
- early during development  for multiple generations of Amazon E-Readers, Tablets, Audio Cloud Computers
- & Streaming Media Products (under Kindle, Fire, Dash & Echo brands).
-Corporate Quality & Reliability Manager at Gennum Corp
-September 2006  -  December 2011 
-(5 years 4 months)
-Directed the Corporate Quality, Reliability and Failure Analysis Department for Gennum Corporation (now
- part of Semtech), responsible for the definition and execution of  quality and reliability qualification for
- new products as well as quality continuous improvement and supplier quality management for Professional
- Products on Commercial Video, Datacom, Computing and Audio markets  in high volume manufacturing
-Quality, Reliability and Failure Analysis Engineering Manager at Intel Corp
-June 1997  -  September 2006 
-(9 years 4 months)
-Managed  Quality & Reliability departments for Intel™s most advanced Components, Systems and Wafer
- fabrication factories. Responsibilities included management of failure analysis, quality management systems,
- process qualification, control and improvement for high volume production. Led a staff of more than 55
- Engineer and Managers. Also managed areas of Product/Test Engineering.
-Senior Process Development Engineer at Motorola Corp
-Page 
-2
-January 1995  -  July 1997 
-(2 years 7 months)
-Quality Test Engineer
-1994  -  1995 
-(2 years)
-
-Experience
-Partner at Sadler, Gibb & Associates, LLC
-September 2013  -  Present
-Partner in charge of the tax department and serving the needs of a broad array of clients across many
- industries.
-Owner/Partner
-October 2006  -  September 2013 
-(7 years)
-Managing partner at Price Elwood with oversight responsibility for all aspects of the firm™s operations.  My
- 29 year career in accounting, tax, finance and management have provided a af knowledge and experience
- base that now benefit a broad range of the firm™s clients across many industries.
-Certified Public Accountant
-June 2001  -  September 2006 
-(5 years 4 months)
-Partner/Owner
-2000  -  2002 
-(3 years)
-Chief Financial Officer
-1990  -  2000 
-(11 years)
-CPA/Manager
-November 1986  -  April 1990 
-(3 years 6 months)
-CPA/Accounting Senior
-January 1983  -  June 1986 
-(3 years 6 months)
-
-Experience
-Partner
-November 2012  -  Present
-President
-May 2011  -  Present
-Partner
-February 2003  -  May 2011 
-(8 years 4 months)
-
-Experience
-Staff Software Engineer at Google
-May 2014  -  Present
-TLM
-August 2013  -  Present
-Tech lead manager for social storage
 Senior Software Engineer at Google
-September 2006  -  Present
+2007  -  Present
+Software Engineer at Google
+July 2007  -  December 2009 
+(2 years 6 months)
 
 Experience
-Engineering Director at Facebook
-2014  -  Present
-Lead Ads Delivery engineering group including Ads Infrastructure, Ads Ranking and Optimization, Ads
- Targeting, Market Dynamics and Delivery Insights for ads on Facebook, Instagram and Audience Network
-Software Engineer at Facebook
-2009  -  Present
-Software Engineer
-2001  -  2009 
-(9 years)
-
-Experience
-Principal Software/Firmware Engineer
-July 2007  -  Present
-Embedded solutions and Linux.
-www.surfbytes.com
-Software Engineer at IGT
-June 2007  -  July 2017 
-(10 years 2 months)
-*** Live Electronic Table Game Team (ETG) ***
-Support and develop embedded Linux component of ETG.
-Refactored secure boot process for 3rd party embedded Linux (ARM) based system (bootrom, MBR, initrd,
- kernel,rootfs) to use ECDSA signed packages. 
-*** Communal Bank Devices Team ***
-Implemented several proprietary communication  protocols for Casino industry (e.g. Slot Accounting System
- (SAS)) 
-Develop services in C# on secure embedded Windows 7 platform (Universal Controller - UC) to support slot
- games.
-Worked with windows device driver developer to implement SAS layer for application interop.
-Rewrote Clerk Validation Terminal (CVT) software written as embedded i960 app to run on embedded
- windows. 
-Created UI for CVT running on UC using WPF.
-Refactored custom bios and boot loader for 3rd party embedded Linux SoC to improve security and
- performance of boot sequence.
-Added USB logging functionality.
-*** Dark Horse Game Studio - Bonus Game Development ***
-Page 
-2
-Worked with creative teams to develop back end services for slot bonus games.
-Developed bank bonus server game engine and provided rapid prototyping support. 
-Created and validated Paytable evaluator for reel slots.
-Implemented core flash player functionality on AVP platform (QNX,C++).
-*** Electronic Table Games - ETG ***
-C++ development for recently acquired 3rd party embedded Linux controller that connects game terminal to
- back end host system (SAS).
-*** Player tracking system - Advantage Bonusing Team ***
-Supported C++ development for large Windows CE based embedded player tracking system.
-Implemented SSL  and OCSP for G2S client.
-Solved critical  problems with 3rd party Flash platform that threatened successful deployment. 
-Resolved issues with development tool chain which greatly improved the stability of product releases.
-Senior Software Engineer at Maxxess Systems
-April 2004  -  May 2006 
+Senior Staff Software Engineer / Engineering Manager at Google
+May 2013  -  Present
+Tech Lead manager for Image Search at Google. I strive to make Image Search more useful, inspiring and fun
+ for users.
+Senior Software Engineer / Tech Lead at Google
+September 2009  -  April 2013 
+(3 years 8 months)
+I was the Tech Lead of backend Infrastructure, Search and Recommendations for a social network project at
+ Google.
+Software Engineer at Google
+July 2007  -  August 2009 
 (2 years 2 months)
-*** Access control systems - Embedded Linux ***
-Reported directly to Engineering VP, responsible for architectural design and development of next generation
- embedded linux area control system interfacing to legacy hardware.
-Developed robust, multi-threaded soft-real-time applications using C++, POSIX threads.  
-Embedded SQL (SQLite) and TCL scripting engine in product, allowing easy customization.
-Developed various software-hardware interfaces including proprietary serial and TCP/IP protocols.
-Software Engineering Consultant
-June 2002  -  April 2004 
-(1 year 11 months)
-Provided software engineering services to various clients in Southern California.
-*** Konica Minolta Lab, Huntington Beach, CA - Business copier systems ***
-Assisted with development of business copier document management software using Java, XML, SOAP and
- web services.
-Wrote specs for new product development and provided technical guidance to junior engineers.
-*** Veric Software, Santa Monica, CA (Start-Up) ***
-Assisted ex-CTO and ex-VP of Microvault with development of  unique project management solution  for
- Windows (Accompli).
-Used MS Visual Studio and C++ with MFC, XML, SQL, SOAP.
-*** MQ Solutions, Whittier, CA ***
-Product developer for IBM MQ Series business partner applications.
-Architected and developed a multi-threaded, component based, message oriented framework for a suite of
- Java applications that work with MQ Series.
-Page 
-3
-Developed encrypted protocol handlers for working with encrypted files across a TCP/IP network Developed
- client/server components to support remote control and monitoring across TCP/IP.
-Software Engineer
-December 1999  -  June 2002 
-(2 years 7 months)
-*** Secure document delivery software startup ***
-Responsible for full cycle design, development and implementation of premier secure document delivery
- product, NetCourier using JAVA, XML, Xerces, JavaMail, Cryptography extensions, LDAP, S/Mime,
- JavaScript.
-Developed core proprietary self decrypting document technology (patent pending) .
-Developed robust, multi-threaded high volume mail engine to build and deliver encrypted documents.
-Integrated S/Mime encryption and digital signing certificates with LDAP support into product.
-Developed remote console and API using TCP/IP sockets to remotely control and monitor server.
-Software Engineering Consultant
-February 1997  -  December 1999 
-(2 years 11 months)
-Provided software consulting services to various clients in Southern California
- 
- *** Disneyland ParkAnaheim, CA ***
-Scientific Systems and Ride Control Systems Group 
-Supported software development efforts for new theme park (California Adventure).
-Wrote specifications and PLC software for changes to Monorail control system
-Supported PLC and AB PanelView software troubleshooting efforts on Malaboomer (Space Shot) ride.
-*** Excellon Automation, Torrance, CA ***
-Designer and manufacturer of state of the art automated PCB drilling systems.
-Wrote specifications, designed and developed control software and Visual Basic ActiveX controls to interface
- Laser Drilling equipment to automated robotic Autoloader.
-Supported R&D and test groups in design and trouble-shooting efforts.
-*** Yaskawa-Motoman Inc., Cypress, CA ***
-Designer and manufacturer of unique modular robotic systems.
-Responsible for software support and maintenance of modular robot control software (UNIX)   
-Wrote application software using MS Visual C++ and MFC for robot system configuration.
-Wrote multi-threaded motion and I/O control software for multiple  robotic manipulators.
-Software Section Head
-November 1992  -  November 1996 
-(4 years 1 month)
-Designer and manufacturer of sophisticated robotic automation systems for laboratories.
-Page 
-4
-Worked with small software team developing state of the art robotics and control systems for sophisticated
- clinical laboratory and industrial automation systems.
-Developed control system software, drivers and object oriented graphical user interfaces in C++ for robotic
- aliquotting station and instrument loading robotics.  
-Developed C++ control software and graphical user interface for robotic palletizing system. Developed line
- scheduling and dynamic path planning/obstacle avoidance algorithms to optimize robot motion paths through
- changing work envelope topologies.
-Developed motion and I/O control software on various types of motion controllers, robot controllers and
- PLCs.
-Control System Simulation and Analysis Engineer
-November 1989  -  November 1992 
-(3 years 1 month)
-***Designer and manufacturer of the NASA Space Shuttle Remote Manipulator System (SRMS) robot arm
- ***
-Responsible lead for design, test and implementation of major control system change to SRMS arm control
- software that significantly improved arm performance for heavy payload handling.  
-Changes incorporated into shuttle software for flight use in 1994.
-Developed payload attitude control algorithms and implemented them in real time and non-real time
- simulators.
-Organized and conducted astronaut training and control system evaluation in real-time simulator (SIMFAC)
- and performed support engineering simulations and analysis for the SRMS program. 
-Spearheaded development of Windows/C application for simulator configuration used at SPAR/NASA.
-Presented monthly interim progress technical reports to NASA management. 
-Traveled to the Johnson Space Center (JSC) as required to discuss and present technical issues.
-Received commendable performance review rating in 1992 (highest rating in-group of 12).
-Research and Development Engineer - Robotics
-September 1985  -  October 1989 
-(4 years 2 months)
-Designer and manufacturer of automated case handling equipment and robots.
-Responsible for the design and development of a PC based multiple axis robot motion controller. 
-Designed, built and programmed embedded motor controller boards for use with Apple II+ and IBM PC
- based host controller.
-Wrote control software in C, 8088 assembly, 6502, 6802 assembly language and burned EPROM's for use
- with 6802 controller boards. 
-Wrote a ladder logic compiler and simulator to perform functions of a programmable logic controller (PLC)
- to control and monitor external input and output devices.
+I was a software engineer working on data storage, annotation and search of Product Search at Google. 
 
 Experience
-Senior Staff Software Engineer & Tech Lead Manager at Google
-December 2014  -  Present
-Manage a team to build content understanding infrastructure
-Manage a team to produce contents used by Google Search
-Lead a team to build query understanding infrastructure
-Staff Software Engineer at Google
-July 2007  -  November 2014 
-(7 years 5 months)
+Senior Staff Software Engineer / Manager at Google
+February 2007  -  Present
+Technical lead manager for Native Ads, Creative Serving and Quality. 
+Uber tech lead for Machine Vision for Display Ads at Google, with specialties on image retrieval, ranking,
+ classification, recognition & enhancement at large-scale. 
+Technical lead for several Google Image Search features in the past, including Related Images and Search by
+ Image, and the key contributor for Similar Images and Image Swirl etc.
+Search by Image: http://youtu.be/t99BfDnBZcI
+Similar Images: http://youtu.be/6fD2t4d2Ln4
+Graduate student at Zhejiang University
+1998  -  2001 
+(4 years)
 
 Experience
-Software Engineer at IGT
-August 2012  -  Present
-Software Engineer at Cantor Gaming
-August 2010  -  August 2012 
-(2 years 1 month)
-Mobile game development.
-Technology/Language: C++, C#, OpenGL ES, Android NDK
-Ł Responsible for development and support of company™s Windows mobile & PC Gaming application.
-Ł Responsible for porting of company's Gaming application to Android using NDK.
-Research Intern at Boston Scientific
-May 2009  -  July 2009 
-(3 months)
-Technology/Language: C#, .NET CF 3.5, Python, Windows Mobile 6.1
-Project Responsibilities:
-Ł Add a new feature to existing Desktop Python application to collect data from and program medical device.
-Ł Identify mobile platform & mobile with USB host functionality.
-Ł Get the mobile phone to recognize and communicate with USB CC1111 device through serial port.
-Ł Develop mobile application to collect data from and program the device through serial port.
-Ł Preparing low level analysis & design documents, and code documentation.
-Software Engineer at Azingo Inc. (formerly Celunite Inc.)
-December 2006  -  August 2008 
-(1 year 9 months)
-Technology/Language: C, GObject/Glib Framework, Gtk+
-Platform: Ubuntu 6.10 Linux Kernel (2.6.14) x86 and ARM scratchbox, TI OMAP-850 dual processor board.
-Project:
-Responsible for developing UI framework for Azingo Linux mobile platform to facilitate application
- developers to develop highly optimized high performance mobile applications.
+Staff Software Engineer at Qualcomm
+May 2012  -  Present
+Led the Location HAL Team in software developed on Android smartphones and tablets for location
+ based features, including AGPS/SUPL, fused location, network location, and geofence in the Hardware
+ Abstraction Layer for all Qualcomm based chipsets. Notable products using Location HAL Team™s location
+ implementation are Google Nexus 4, Nexus 5, Nexus 6, and Nexus 7.
+Designed location feature APIs jointly with Google on upcoming Android releases, including Android
+ JellyBean, Andoid Kitkat, and Android Lollipop. Notable features include geofence API and location
+ batching API used by Google Now App and Maps App..
+Designed Location HAL architecture/build structure for different flavors of Android, including Stock
+ Android, Android with Qualcomm IZAT© features, and Android for Wearables. 
+Implemented feature APIs in native C/C++ code in the hardware abstraction layer in a multithreaded
+ environment with a big emphasis on memory efficiency and power consumption.
+Mentored team members in a leading role, including design review, code review, and training sessions on
+ Android process and location architecture.
+Debugging of reported customer issues
+Senior Telephony Software Engineer at Palm
+2007  -  May 2012 
+(5 years 5 months)
+Developed telephony libraries for smartphones and tablets on webOS embedded linux. I worked
+ collaboratively with a cross-functional team to design to develop improved wireless telephony software
+ architecture, integrating/porting existing telephony software, and extending telephony APIs to support new
+ functionality with a primary focus being on GPS and SIM functionality.
+Senior Engineering Consultant
+2006  -  2007 
+(2 years)
 Page 
 2
+Contracted for Motorola and Palm on Windows Mobile Smartphones that involved device drivers, power
+ management, and location based services.
+Senior Software Engineer
+2003  -  2006 
+(4 years)
+I solely designed and developed the software front end for a Windows CE based data camera that involved a
+ UI application, device drivers, and power management.
+
+Experience
+Chief Technical Officer
+January 2013  -  Present
+Web Content Manager at CarePathways
+January 2010  -  January 2013 
+(3 years 1 month)
 
 Experience
 SDE II Amazon Video at Amazon
@@ -475,4 +239,132 @@ delivery.
 
 Experience
 Software Engineer at Google
-2003  -  Present
+April 2016  -  Present
+Software Implementation Consultant at Planisware
+June 2014  -  August 2015 
+(1 year 3 months)
+
+Experience
+Software Engineer at Google
+July 2006  -  Present
+
+Experience
+Audit Partner at Eide Bailly LLP
+September 2013  -  Present
+Audit Partner at Hansen, Barnett & Maxwell
+February 1999  -  August 2013 
+(14 years 7 months)
+Intern
+December 1996  -  December 1998 
+(2 years 1 month)
+
+Experience
+Director for Massachusetts Office On Disability at Commonwealth of Massachusetts
+February 2015  -  Present
+Page 
+2
+Lead the Massachusetts Office On Disability and our mission of providing full and equal access and
+ opportunities for persons with disabilities in a manner that fosters dignity and self determination. 
+City Councilor At-Large at City of Malden
+November 2011  -  Present
+City Councilor At Large
+Managing Director
+January 2006  -  January 2015 
+(9 years 1 month)
+Massachusetts Public Relations
+Arc Angel Communications is a Public Relations and Marketing Communications Company with
+ headquarters in Malden Massachusetts. Arc Angel specializes in Massachusetts Public Relations and
+ Massachusetts Public Affairs. We produce a variety of public affairs and marketing communications
+ products and solutions based upon many of the most profound public policy issues facing Boston and
+ Massachusetts.
+Candidate
+February 2014  -  November 2014 
+(10 months)
+Delegate
+March 1998  -  2014 
+(16 years 10 months)
+Work to restore two-party government to Massachusetts
+Adjunct Faculty at Suffolk University
+January 2010  -  December 2013 
+(4 years)
+Teaching Professional Communication, CJN - 177 and Social Media, CJN - 389
+Member, Chairman 2010-2012
+January 2005  -  December 2013 
+(9 years)
+Member and former Chair of the Massachusetts Commission for the Blind Rehabilitation Council
+Election Officer at City of Boston Election Department
+2008  -  September 2013 
+(5 years 9 months)
+Oversee election activities
+Secretary & Past President
+July 2012  -  July 2013 
+(1 year 1 month)
+Malden Rotary Club, which is the oldest continually active service organization in the City of Malden
+Former Member, Malden Planning Board
+January 2002  -  January 2008 
+(6 years 1 month)
+Make decisions on Planning and Development cases for the City of Malden
+Regional Development Manager
+Page 
+3
+2006  -  2008 
+(3 years)
+Senior Housing Development
+Board Member
+2006  -  2008 
+(3 years)
+Enhance employment opportunities for persons with disabilities
+Chief Communication Officer
+January 2002  -  December 2006 
+(5 years)
+Direct communications efforts and help run Massachusetts second largest mid-sized bus company
+Municipal Affairs & Public Policy Liasion
+1999  -  2003 
+(5 years)
+Manage and coordinate the Massachusetts State Senate with five cities and towns
+Municipal Affairs & Public Policy
+1998  -  2002 
+(5 years)
+Served as a liaison between five cities and towns and the 3rd Middlesex District
+Municipal Affairs & Public Policy
+1998  -  2002 
+(5 years)
+Direct Communication and outreach efforts, developed and maintained media relationships, create and
+ manage PR, Public Affairs and Marketing collateral
+Governor's Office, State Senate
+1996  -  2002 
+(7 years)
+Serve Governor Cellucci as a Correspondence and Constituent Services Aide
+Aide
+1996  -  1998 
+(3 years)
+Assist with Trade mission preparation
+
+Experience
+Partner at HGG Advisors
+October 2015  -  Present
+Finance at Elevate Practices
+October 2015  -  Present
+Audit Manager at HintonBurdick CPAs & Advisors
+January 2014  -  October 2015 
+(1 year 10 months)
+Audit Manager at Deloitte & Touche
+September 2008  -  January 2014 
+(5 years 5 months)
+
+
+Experience
+Graduate Researcher
+2006  -  Present
+Software Engineering Intern at Google
+June 2009  -  August 2009 
+(3 months)
+Software Engineering Intern at Google
+2008  -  2008 
+(1 year)
+Software Developer at eAsic
+2004  -  2006 
+(3 years)
+Junior Software Developer at ASIC Art
+September 2004  -  April 2005 
+(8 months)
