@@ -1,61 +1,12 @@
 
 Summary
-I am the co-head of the LIACS Computer Systems, Imagery and Media Research cluster (30+ members), which
- is one of the two main research groups at the computer science department at Leiden University. In addition,
- as a member of the LIACS Scientific Council, I am responsible for steering the general direction of computer
- science research at Leiden University. My group's mission is to investigate new paradigms for the retrieval and
- understanding of multimedia information by developing new deep learning approaches.
-Currently, I'm also the Editor-In-Chief of the International Journal of Multimedia Information Retrieval
- (Springer), a mid-level professor at Leiden University and building the public ACM MIR-FLICKR testbed for
- system evaluation in media retrieval.
-
-Summary
-Technologies that I learned
-+ WiFi subsystem
-  - Linux Wireless Extentions
-  - Wpa_Supplicant
-  - NetworkManager
-+ GPS subsystem
-  - Qualcomm BSP
-  - LiMo LBS framework
-  - Gypsy
-+ Linux Kernel
-  - worked on Multitouch and audio drivers
-  - Also worked on uboot
-+ GNU Buildsystem
-Specialties: Programming Languages: C, Python, Erlang, Clojure
-Scripting Languages: 
-Operating Systerms: Linux,
-Networking: TCP/IP, WiFi (wpa_supplicant, Network Manager),
-
-Summary
-Most recently: 
-Multi-years of software development and architecture in payments and search infrastructure using Rails, Java,
- Scala, C/C++, JavaScript, Python.
-In the Past:
-Programming 
-Ł Designed and implemented multiple software packages for molecular network data analysis.
-Ł Designed and implemented a programming language ﬁAcumenﬂ that was used in teaching and research for
- prototyping cyber-physical systems at Rice & University of Houston
-Data Analytics 
-Ł First-hand experience in analyzing molecular network data and oilfield equipment logs
-Ł Used several machine learning algorithms in research projects
-Math and Logics 
-Ł Completed over 20 courses on math, statistics, logics and theory of computation related
-Research & Technical Communications 
-Ł Broad research experience in bioinformatics, computer theory, programming language, physical systems
- modeling, formal modeling and verification, and embedded systems
-Ł 19 peer-reviewed publications
-Ł Effectively deliver multiple talks and posters to audience with diverse backgrounds
-
-Summary
-N/A
-
-Summary
-Search and recommendation, image understanding, image discovery, beautiful and useful image products.
-
-Summary
-Innovate and build beautiful advertisement products
+Customer focused with dedication to regulations and guide lines. Fast learner.
+Have recent experience in software troubleshooting, maintenance, and installation on Windows XP and 7
+ Professional, VM Ware ESX and Fusion, Mac OSX and Linux Red Hat and Ubuntu platforms.
+Experience in hardware and software installation, maintenance, and troubleshooting, on Windows, Linux and
+ UNIX based platforms
+LAN and wireless infrastructure support as well as interaction with WAN
+Experience in multimedia educational software quality assurance.
 
 Summary
 N/A
@@ -64,51 +15,28 @@ Summary
 N/A
 
 Summary
-10 years of experience in Multimedia, Audio and Android in Embedded domain in Semiconductor
- Industry(AMD, ST-Ericsson, Freescale). 
-C, C++, Assembly Level Programming-ARM11, ARM9, Android
-Patent in MP3 Huffman decoding.
-Skilled in Android HAL, Openmax, Audio Codecs. 
-Hands on in Android Porting.
-Strong communication skill, Analytical mind and Leadership Qualities.
+I have work experiences in quite a few projects inside Google Search, from crawl to indexing, mainly about
+ improving search data quality using a technique I created. The technique enables us to generate regexp based
+ URL patterns from trillions of URLs automatically. Using these url patterns, we group similar URLs together
+ and use that to predict utility for web pages in crawl / indexing. I also built an infrastructure to serve billions of
+ url patterns, which could support dozens of millions of URLs / sec in production environment. This work has
+ turned out to be very useful, including several most important launches in related areas.
+Currently, I am working with more people / teams to use the technique in more areas, like dup, spam, rank.
+
+Summary
+I have been working in the glass and glazing business since the age of 14.  I started my Business Inner-
+City Glass Company when I was 16.  I often said that it takes a special person to own and run their own
+ company. I love what I do and my relationship with my customers reflect that. Please see my reviews @
+ www.FixMyBrokenGlass.com. Please call me for any question in regards to glass and glazing.  I am happy
+ offering the best advice possible.
+Specialties: Frameless shower glass doors-Stained and leaded glass-  Aluminum doors and entrances-Vinyl
+ replacement windows-furniture and desk top glass-Low-e insulating glass.
 
 Summary
 N/A
 
-
 Summary
-Extensive experience providing assurance services to public companies, private companies and governmental
- entities.
-Specialties: Assurance services
-
-Summary
-David D™Arcangelo is Director of the MassachusettsOffice On Disability and is a Malden City Councilor At-
-large.
-David is considered one of the Commonwealth's most prolific political activists and was the 2014 Republican
- nominee for Secretary of State. 
-David was also Managing Director for Arc Angel Communications and Adjunct Faculty at Suffolk University.
-With over 22 years of professional experience, David has been the catalyst for a large number of successful
- public endeavors including winning political campaigns, corporate turnarounds and non-profit triumphs.  
-Having served five Governors and as an aide in the State Senate, David is one of only a handful of public
- servants to have inside working knowledge of both the Executive and Legislative branches of Massachusetts
- State Government.  Appointed by Governor Mitt Romney to the Mass. Commission for the Blind Rehab
- Council and reapponited by Governor Patrick, David is considered a leading authority on public policy
- issues regarding disabilities.  He has also served in leadership positions for several Boards and Commissions,
- which has helped to make David one of the most trusted and respected sources for public affairs and civic
- information. 
-David™s private sector experience is highlighted by the incredible transformations of a companies that were
- losing money and now, through David™s expertise, are turning a profit.  A polished public speaker, writer
- and team player, David has demonstrated strengths in: Writing, Financial Management, Issue Advocacy,
- Technology Integration, Public Policy, Campaign Management, Team Leadership and Event Organization. 
-David has an impressive 3-0 record as a Campaign Manager and ran one of the most successful State Senate
- campaigns in state history.  His innovative plan for ﬁSunsetting Campaign Warchestsﬂ has been editorialized
- and received critical acclaim, as has his Constitutional amendment to alter the Massachusetts Constitutional
- amendment process.
-
-Summary
-Experienced Finance with a demonstrated history of working in the dental accounting industry. Skilled in cloud
- based accounting, financial statements, small business entity structuring, and tax. Strong finance professional
- with a MAcc from Southern Utah University.
+N/A
 
 Summary
 N/A
@@ -120,6 +48,62 @@ Page
 Jasmine Moran
 Licensed Acupuncturist
 Contact Jasmine on LinkedIn
+
+Summary
+M.B.T.A. 1990- present. 27 years
+2014- present .Superintendent Maintenance of Way (Rapid Transit Lines) Red, Orange, Blue lines and
+ Systemwide track production 
+2007-2015 Supervisor Maintenance of Way
+( Orange Line)
+1997-2007 Section Foreman ( Track inspection)
+1990-1997- laborer, trackmen, Trackwalker ,
+Foreman.
+Page 
+2
+Joe Anderson
+M.B.T.A. Superintendent Maintenance of Way ( Rapid Transit Lines)
+Contact Joe on LinkedIn
+
+Summary
+The effective implementation and appropriation of IT to business goals is what motivates me. This motivation,
+ coupled with a continual strive for customer satisfaction in every solution is the very foundation of my
+ character. A constant hunger for knowledge continually drives and pushes the boundaries of my own personal
+ development always looking for unique and creative solutions to problems. 
+Every problem is treated as an opportunity to excel, with a high degree of personal identity being gained by this
+ continual desire to find solutions. I base the way I work on being one step ahead of the clients requirements -
+ "Leading from in front". I have excellent communication skills that have assisted me in conveying solutions
+ and arguments generating management/client enthusiasm and the necessary momentum to bring projects to a
+ successful close. I have a proven track record as a professional and talented technical trainer, seen as an expert
+ in many different fields of knowledge by my peers.
+Specialties: Leading, mentoring and motivating a cross skill engineering team. Designing Disaster Recovery
+ Architectures and Methodologies, Designing Resilient Application Architectures, Ability to write clear and
+ concise Technical Documentation, Talented Technical Trainer, IT Consulting across many sectors Public,
+ Local/Central Government, Blue Chip and SME.
+Currently specializing in Cloud Technologies, primarily Amazon AWS. Currently leading the engineering
+ and automation efforts in a young and vibrant AWS Managed Services Partner creating Cloud Solutions to
+ accelerate customers to success.
+
+Summary
+I am the co-head of the LIACS Computer Systems, Imagery and Media Research cluster (30+ members), which
+ is one of the two main research groups at the computer science department at Leiden University. In addition,
+ as a member of the LIACS Scientific Council, I am responsible for steering the general direction of computer
+ science research at Leiden University. My group's mission is to investigate new paradigms for the retrieval and
+ understanding of multimedia information by developing new deep learning approaches.
+Currently, I'm also the Editor-In-Chief of the International Journal of Multimedia Information Retrieval
+ (Springer), a mid-level professor at Leiden University and building the public ACM MIR-FLICKR testbed for
+ system evaluation in media retrieval.
+
+Summary
+N/A
+
+Summary
+N/A
+
+Summary
+N/A
+
+Summary
+N/A
 
 Summary
 N/A

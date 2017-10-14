@@ -1,5 +1,272 @@
 
 Experience
+Senior IT Engineer at QUALCOMM Inc
+March 2016  -  Present
+IT Engineer
+June 2014  -  March 2016 
+(1 year 10 months)
+Senior IT System Specialist at Motorola Mobility / Google
+July 2011  -  June 2014 
+(3 years)
+Construction of new data center and migration from old data center to new data center in a new building still
+ under construction.
+New data center cooling and power/generator tests and verification.
+Environmental and structural support of both data centers.
+Decommissioning of an old data center.
+New Linux standard image creation participation and testing. 
+Cisco UCS blade server configuration and implementation for the engineering community.
+Technical support analyst
+January 2010  -  July 2011 
+(1 year 7 months)
+Technical support analyst at CSC at Motorola
+2006  -  2010 
+(5 years)
+Engineering Support Technician at VMware
+August 2005  -  January 2006 
+(6 months)
+Provided technical support for users working in VM Ware ESX 2.5, VM Ware GSX 3.2, Linux Red Hat, Suse
+ Linux 9, and Windows XP environments.
+Page 
+2
+Building, configuring and setting up VM Ware ESX and Linux Red Hat servers and Workstations.
+Created and reconfigured DNS entries and handled VLAN changes.
+Configured SCSI and SATA RAID systems upon request.
+Handled computer moves, ads, and modifications on weekly basis.
+Regularly interfaced with users, and technicians.
+Installed and supported a large variety of software including Microsoft Office XP, Visio, Microsoft Outlook,
+ Internet Explorer, and Putty.
+Daily ticket processing.
+
+Experience
+Director of Engineering at Facebook
+May 2016  -  Present
+Sr. Director, Engineering at Cloudera
+February 2011  -  April 2016 
+(5 years 3 months)
+I was responsible for all core engineering at Cloudera, where I led a group of 100+ brilliant engineers
+ building the industry™s leading big data platform.
+Sr. Engineering Manager/Principal Development Manager at Yahoo! and Microsoft
+September 2007  -  February 2011 
+(3 years 6 months)
+I led the Yahoo!'s search ad A/B testing infrastructure, allowing for rapid experimentation for 30% of
+ all Yahoo! search traffic.  Working with a group of amazing scientists, I was responsible for the search
+ optimization frameworks in the ad-serving stack. 
+Prior to that, I was part of a small group of early engineering leaders responsible for building out Yahoo™s ad
+ tech team at Bangalore, India. Together, we helped build the team from scratch to manage Yahoo!™s search
+ advertising platform (Panama), responsible for billions of dollars in search ads revenue. I was personally
+ responsible for all of Yahoo's external search advertising API.
+I eventually moved to Microsoft Bing as part of the Yahoo!-Microsoft Search deal, where I helped transition
+ Yahoo™s search ads engineering teams and products to Bing.
+Consultant
+October 2005  -  September 2007 
+(2 years)
+I spent time in India helping startups build products targeted towards broader social impact. This included
+ a project with the Government of Mumbai to build an early warning system to monitor rainfall and alert
+ citizens for flood disaster relief.
+Senior Software Engineer at Fujitsu Network Communications
+September 1998  -  October 2005 
+(7 years 2 months)
+Senior Software Engineer at Fujitsu, and member of a team responsible for Fujitsu's Network Management
+ System.
+Page 
+2
+Software Engineer (Intern) at AT&T Campuswide Solutions, Phoenix, AZ
+December 1996  -  December 1997 
+(1 year 1 month)
+As a research intern, I learned about and contributed to smart card technologies for university campuses
+ worldwide.
+Software Engineer at Philips, Singapore
+May 1995  -  August 1996 
+(1 year 4 months)
+Engineer in the Philips TV division where I helped build embedded software for high end television sets.
+
+Experience
+Chief Technical Officer
+January 2013  -  Present
+Web Content Manager at CarePathways
+January 2010  -  January 2013 
+(3 years 1 month)
+
+Experience
+Staff Software Engineer at Google
+July 2006  -  Present
+Search
+Page 
+2
+Chao Liu
+Staff Software Engineer at Google
+Contact Chao on LinkedIn
+
+Experience
+President
+September 2006  -  Present
+Silvermansells Real Estate Company has been selling Real Estate all over the South Shore and Greater
+ Boston for many years now. We are measured and committed to one client at a time, with attention to
+ personal detail.  We are knowledgeable in all facets of the Real Estate Industry.  Please take a moment and
+ preview our recommendations.
+President
+1976  -  Present
+Trained in the manufacturing and installation of Aluminum doors and Entrances as well as all other flat glass
+ related products. 
+Please see web-site for additional references and details. 
+FixMyBrokenGlass.Com
+
+Experience
+Staff Software Engineer at Google
+July 2005  -  Present
+2005 - 2015: Web Search spam team, received Google's "EMG Award". The group responsible for removing
+ or demoting the rank of undesirable documents in search results. Often considered 'adversarial optimization'
+ due to the fact that the outside world would respond and attempt to work around any changes made. Worked
+ on spam collaborations with products outside web search, including Blogger, Adsense, and Maps. Spoke at
+ several search conferences.
+2009: Received Google Founders award
+2015 - Present: Accelerated Mobile Pages (Google AMP), a web page format for mobile documents that
+ guarantees browser performance. TL of the AMP Validator and major contributor to the project. @Gregable
+ on github.
+Adventurer
+2004  -  Present
+Outdoors Highlights:
+2004: Week long, 75 mile hike on the Appalachian Trail in North Carolina
+2010: Summit Mt Kilimanjaro via Machame route, tallest peak in Africa (5,895 m)
+2011: 6-day, 50 mile, Yosemite High Sierra hike
+2014: Waterfall Ice Climbing in Lee Vining, CA
+2014: Summit Mt Rainier (4,392 m) on 6-day glacier skills course with IMG.
+2015: Waterfall Ice Climbing in Ouray, CO
+2015: 5-day canoe trip on Green River to the Confluence w/ Colorado River
+2016: 200 mile, 8-day Canoe trip on the Yukon River in Canada's Yukon Territory
+2017: Summit Mt Kosciuszko, tallest peak in Australia (2,228 m), via the chairlift route :-) 
+Page 
+2
+
+Experience
+Senior Software Engineer at Google
+2007  -  Present
+Software Engineer at Google
+July 2007  -  December 2009 
+(2 years 6 months)
+
+
+
+Experience
+Founder & CEO at HATech LLC
+June 2015  -  Present
+We are HATech Œ a Product Engineering and Site Reliability Engineering team focusing on DevOps
+ Consulting, Services and Enablement.
+Transform your business with Operations, Product Management and Development working together as
+ one integrated agile team and start delivering value beyond expectations. We provide you the expertise to
+ energize and empower your teams to deliver on product requirements, effectively, on time and with the
+ uptime and availability your brand deserves.
+Page 
+2
+From our Product Management,  Agile Consultants and Cloud Engineering team in the US through to our QA
+ and Software Development teams in Asia we work around the clock to deliver your product reliably every
+ time.
+Director of Systems Engineering at IGT
+August 2014  -  July 2015 
+(1 year)
+ŁPassionate technical leader working with a like minded Product Management team to be market leaders in
+ many areas within the industry
+ŁDriving agile adoption and improvement initiatives across engineering
+ŁResponsible for leading a team of highly skilled engineers in delivering ground breaking next generation
+ systems
+ŁDelivered an industry first on Openstack across multiple continents, on time and under budget
+ŁCreated, trained and unleashed a motivated and passionate cross Business Unit DevOps capability
+ŁCollaborative product realization driving new revenue opportunities
+ŁResponsible for leading an engineering team, bringing to market the first PaaS for the Casino and Gaming
+ industry
+Distinguished Architect at IGT
+January 2012  -  July 2014 
+(2 years 7 months)
+ŁResponsible for the systems architecture of the next generation of Casino Management solutions. 
+ŁWorking with cutting edge technologies to drive systems architecture through innovation
+ŁIntegral part of the cloud leadership team responsible for forming and directing the cloud vision, operational
+ strategies and processes as well as structuring engineering requirements.
+ŁSubject Matter Expert for Openstack, Applogic, IaaS, PaaS and Saas offerings.
+ŁWorking intensively with Regulators to approve IGT's Cloud vision across multiple jurisdictions.
+ŁResponsible for the successful delivery of the first IGT Cloud application
+Lead Applogic Architect - EMEA at CA Technologies
+May 2011  -  December 2011 
+(8 months)
+ŁResponsible for strategic consulting including Operational process automation and Cloud integration
+ŁSenior Technical advisor
+ŁTechnical mentor for Applogic Presales and Sales teams
+ŁResponsible for the design, scoping and delivery of Technical Workshops and Proof of Concepts globally
+ŁExecutive Advisor for the CA cloud strategy and product portfolio
+ŁDeep dive technical consultant for CA 3tera Applogic
+ŁArchitect responsible for delivering POC that won the largest Applogic deal to date
+ŁArchitect responsible for delivering POC that won the largest EMEA Applogic deal to date
+Principal Technical Consultant, 3Tera Applogic, EMEA Region at CA Technologies
+October 2010  -  June 2011 
+(9 months)
+ŁStrategic Consulting, including business plan & go to market strategy development
+Page 
+3
+ŁPrimary technical lead on all EMEA technical engagements
+ŁProvide expert product and sector knowledge
+ŁResponsible for the design, scoping and delivery of Technical Workshops and Proof of Concepts
+ŁResponsible for evangelising CA's Cloud strategy throughout EMEA
+Technical Specialist & Technical Account Manager at Novell
+January 2009  -  October 2010 
+(1 year 10 months)
+ŁSupport the sales process through Pre-Sales activities including presentations to CxO Level
+ŁTechnical Specialist for SUSE Linux Enterprise (SLES/SLED)
+ŁTechnical Specialist for Platespin Data Centre Automation and Virtualisation product sets
+ŁTechnical Account Manager for Novell™s Partners providing training and support services
+ŁResponsible for autonomous customer engagements separate from the initial sales engagement enabling me
+ to become a trusted technical advisor giving me greater penetration into accounts
+ŁResponsible for running Proof of Concept and migration workshops
+ŁResponsible for Project Managing large deployments working with customers on their technology refresh
+ and roll out
+Solutions Architect at 2e2
+July 2008  -  January 2009 
+(7 months)
+ŁProvided Technical Solutions through in-depth Technical consultancy on customers solutions from
+ Networking and security through to Database optimisation and DR scenarios
+ŁResponsible for proactively revisiting all Netstore existing customer solutions and creating business plan and
+ commercial justifications to migrate solutions to a virtualised solution
+ŁCreativity enabled me to rescue and restore confidence in a number of high profile accounts
+ŁResponsible for running virtual teams to address technical issues with accounts
+ŁResponsible for identifying revenue streams and driving the necessary product development
+ŁResponsible for ensuring solutions met and adhered to the relevant regulatory requirements
+ŁWorked very closely with Executive Team to identify weaknesses in products and service offerings and
+ responsible for formulating plan of action and rolling this out through the business
+Senior Solutions Engineer at Rackspace Managed Hosting
+December 2007  -  July 2008 
+(8 months)
+ŁSenior member of the team responsible for working on large, complex multi-site solutions requiring creative
+ thinking and managing internal virtual teams
+ŁProvided Technical consultancy on all aspects of customers solutions from Networking and security through
+ to Database optimisation and DR scenarios
+ŁResponsible for all technical design stages of solution from qualification to implementation
+ŁResponsible for mentoring Enterprise Sales Representatives and Junior members of the Solutions
+ Engineering Team
+Page 
+4
+ŁAttention to detail enabled me to learn new products thoroughly and efficiently, providing creative solutions
+ for potential clients that would otherwise be lost to competitors
+ŁResponsible for managing the entire Pre-sales process including customer presentations and customer
+ technical workshops through to implementation and scalability testing
+ŁResponsible for ensuring design standards were incorporated in solutions such as PCI DSS
+eBusiness Pre-Sales Consultant
+March 2001  -  December 2002 
+(1 year 10 months)
+ŁDedicated Unix, Database and Storage Pre-Sales Consultant 
+ŁResponsible for initial technical appraisal, Design work and contract/SLA negotiations.
+ŁMost requested Consultant for customer meetings  and technical presentations
+ŁRegularly received Holidays, Shares and rewards for outstanding performance and commitment
+ŁParticipated only in opportunities with TCV of £750k+
+ŁResponsible for managing Partner Relations with SUN, Dell and Cisco
+ŁDesigned and Implemented e-Business Consultancy processes
+ŁExtensive experience of RFI/RFP responses, presentations to clients, client management, identifying
+ business opportunities as well as an excellent technical understanding
+Cisco Technical Trainer
+July 1999  -  March 2001 
+(1 year 9 months)
+2nd Line Network Support Engineer at COLT Telecom
+November 1998  -  July 1999 
+(9 months)
+
+Experience
 Member
 2015  -  Present
 Member
@@ -59,312 +326,175 @@ Champaign is an interdisciplinary research institute devoted to leading-edge res
  computation, engineering, biology, behavior, cognition, and neuroscience.
 
 Experience
-Software Developer at Helpshift
-March 2011  -  Present
-Polyglot Programmer
-Software Engineer II at Cisco Systems
-May 2010  -  February 2011 
-(10 months)
-Software Engineer II
-Software Engineer at Motorola Mobile Devices
-March 2010  -  May 2010 
-(3 months)
-Software Engineer
-Page 
-2
-Software Engineer at Azingo softsystems India Pvt Ltd
-July 2008  -  May 2010 
-(1 year 11 months)
-Software Engineer
-
-Experience
-Engineering Manager at Airbnb
-June 2017  -  Present
-Staff Engineer at Airbnb
-December 2016  -  June 2017 
-(7 months)
-Senior Software Engineer at Airbnb
-April 2015  -  November 2016 
-(1 year 8 months)
-All about Payments, Tech Lead.
-Page 
-2
-Software Engineer at Square
-April 2013  -  April 2015 
-(2 years 1 month)
-- Square Store Payments (15 months, Ruby)
-- Square Market Search Infrastructure (9 months, Java)
-PHD in Computer Science at Rice University
-October 2010  -  April 2014 
-(3 years 7 months)
-Ł Obtained and cleaned genomic data from various data sources, designed algorithm to extract and understand
- their interplay relationship on protein network evolution
-Ł Lead developer of a software tool for network evolutionary analysis of molecular interaction networks in
- Python/C++
-Ł Lead developer of a simulation tool for genome and molecular interaction network evolution with
- population genetics
-
-Experience
-Senior Software Engineer at Google
-2007  -  Present
-Software Engineer at Google
-July 2007  -  December 2009 
-(2 years 6 months)
-
-Experience
-Senior Staff Software Engineer / Engineering Manager at Google
-May 2013  -  Present
-Tech Lead manager for Image Search at Google. I strive to make Image Search more useful, inspiring and fun
- for users.
-Senior Software Engineer / Tech Lead at Google
-September 2009  -  April 2013 
-(3 years 8 months)
-I was the Tech Lead of backend Infrastructure, Search and Recommendations for a social network project at
- Google.
-Software Engineer at Google
-July 2007  -  August 2009 
-(2 years 2 months)
-I was a software engineer working on data storage, annotation and search of Product Search at Google. 
-
-Experience
-Senior Staff Software Engineer / Manager at Google
-February 2007  -  Present
-Technical lead manager for Native Ads, Creative Serving and Quality. 
-Uber tech lead for Machine Vision for Display Ads at Google, with specialties on image retrieval, ranking,
- classification, recognition & enhancement at large-scale. 
-Technical lead for several Google Image Search features in the past, including Related Images and Search by
- Image, and the key contributor for Similar Images and Image Swirl etc.
-Search by Image: http://youtu.be/t99BfDnBZcI
-Similar Images: http://youtu.be/6fD2t4d2Ln4
-Graduate student at Zhejiang University
-1998  -  2001 
-(4 years)
-
-Experience
-Staff Software Engineer at Qualcomm
-May 2012  -  Present
-Led the Location HAL Team in software developed on Android smartphones and tablets for location
- based features, including AGPS/SUPL, fused location, network location, and geofence in the Hardware
- Abstraction Layer for all Qualcomm based chipsets. Notable products using Location HAL Team™s location
- implementation are Google Nexus 4, Nexus 5, Nexus 6, and Nexus 7.
-Designed location feature APIs jointly with Google on upcoming Android releases, including Android
- JellyBean, Andoid Kitkat, and Android Lollipop. Notable features include geofence API and location
- batching API used by Google Now App and Maps App..
-Designed Location HAL architecture/build structure for different flavors of Android, including Stock
- Android, Android with Qualcomm IZAT© features, and Android for Wearables. 
-Implemented feature APIs in native C/C++ code in the hardware abstraction layer in a multithreaded
- environment with a big emphasis on memory efficiency and power consumption.
-Mentored team members in a leading role, including design review, code review, and training sessions on
- Android process and location architecture.
-Debugging of reported customer issues
-Senior Telephony Software Engineer at Palm
-2007  -  May 2012 
-(5 years 5 months)
-Developed telephony libraries for smartphones and tablets on webOS embedded linux. I worked
- collaboratively with a cross-functional team to design to develop improved wireless telephony software
- architecture, integrating/porting existing telephony software, and extending telephony APIs to support new
- functionality with a primary focus being on GPS and SIM functionality.
-Senior Engineering Consultant
-2006  -  2007 
-(2 years)
-Page 
-2
-Contracted for Motorola and Palm on Windows Mobile Smartphones that involved device drivers, power
- management, and location based services.
-Senior Software Engineer
-2003  -  2006 
-(4 years)
-I solely designed and developed the software front end for a Windows CE based data camera that involved a
- UI application, device drivers, and power management.
-
-Experience
-Chief Technical Officer
-January 2013  -  Present
-Web Content Manager at CarePathways
-January 2010  -  January 2013 
-(3 years 1 month)
-
-Experience
-SDE II Amazon Video at Amazon
-August 2016  -  Present
-Software Programmer as a Consultant at Seachange Intl
-June 2015  -  August 2016 
-(1 year 3 months)
-Client Seachange International: Multimedia Middleware Solutions
-Ł Implemented and developed a Prototype for MP4 parser in C++.
-Ł Captured requirements to support Media source extension-MSE for HTML5
-Ł Implemented Unit Test module.
-Ł Implemented module to support encrypted recordings in Set-top-box
-Ł Used NAGRA DRM to manage credentials by interacting with the secure chipset driver.
-Ł Configured DMA and aligned buffer for accurate transformation
-Member of Technical Staff at AMD
-June 2013  -  June 2015 
-(2 years 1 month)
-Audio vertical Design:
-High level design of various software components
-Implementation of the changes that are expected in the newer Android release KitKat. 
-Page 
-2
-Presenting the design in the design summit organized at product level to various stake holders involving
- Android architects, Fellows, Directors
-Coming out with all the tools required for the subsystem
-GIT infrastructure modeling for Audio and guidance for team on development.
-C++ object oriented implementation to realize Open-Max standard interface
-Senior system Engineer at ST-Ericsson
-September 2009  -  June 2013 
-(3 years 10 months)
-Android HAL porting for audio subsystem
-Software Engineer
-June 2009  -  September 2009 
-(4 months)
-Prototyped Video Conferencing product by offloading x264 codec in hardware
-Engineer at Freescale Semiconductor
-April 2006  -  May 2009 
-(3 years 2 months)
-Developed algorithms for codecs including mp3,aac,sbc and amr.
-Patented one of the huffman decoding algorithm.(http://www.google.com/patents/US7773003)
-Made use of ARM11 assembly level programming including SIMD to achieve efficiency.
-Software Engineer at Aricent
-January 2005  -  May 2006 
-(1 year 5 months)
-Previously known as Flextronics Software Systems. Designed and implemented a logging module for all
- software subsystem. Required various inputs from software stack stakeholders to complete the
-requirements. The implementation was done in C programming
-Assistant System Engineer at Tata Consultancy Services
-June 2005  -  January 2006 
-(8 months)
-Maintained different large scale customer deployed website. Implemented various solutions in Java involving
- object change for an issue in order and
-delivery.
-
-Experience
-Software Engineer at Google
-April 2016  -  Present
-Software Implementation Consultant at Planisware
-June 2014  -  August 2015 
-(1 year 3 months)
-
-Experience
-Software Engineer at Google
-July 2006  -  Present
-
-Experience
-Audit Partner at Eide Bailly LLP
-September 2013  -  Present
-Audit Partner at Hansen, Barnett & Maxwell
-February 1999  -  August 2013 
-(14 years 7 months)
-Intern
-December 1996  -  December 1998 
-(2 years 1 month)
-
-Experience
-Director for Massachusetts Office On Disability at Commonwealth of Massachusetts
-February 2015  -  Present
-Page 
-2
-Lead the Massachusetts Office On Disability and our mission of providing full and equal access and
- opportunities for persons with disabilities in a manner that fosters dignity and self determination. 
-City Councilor At-Large at City of Malden
-November 2011  -  Present
-City Councilor At Large
-Managing Director
-January 2006  -  January 2015 
-(9 years 1 month)
-Massachusetts Public Relations
-Arc Angel Communications is a Public Relations and Marketing Communications Company with
- headquarters in Malden Massachusetts. Arc Angel specializes in Massachusetts Public Relations and
- Massachusetts Public Affairs. We produce a variety of public affairs and marketing communications
- products and solutions based upon many of the most profound public policy issues facing Boston and
- Massachusetts.
-Candidate
-February 2014  -  November 2014 
-(10 months)
-Delegate
-March 1998  -  2014 
-(16 years 10 months)
-Work to restore two-party government to Massachusetts
-Adjunct Faculty at Suffolk University
-January 2010  -  December 2013 
-(4 years)
-Teaching Professional Communication, CJN - 177 and Social Media, CJN - 389
-Member, Chairman 2010-2012
-January 2005  -  December 2013 
+Product Management/Engineering Exec
+2010  -  Present
+Vice President Marketing at Azingo
+January 2007  -  March 2010 
+(3 years 3 months)
+Executive Council Member, Azingo at LiMo Foundation
+2007  -  March 2010 
+(3 years 3 months)
+Vice President Marketing and Business Development
+November 2001  -  January 2007 
+(5 years 3 months)
+Co-Founder, Managing Venture Partner
+2000  -  2004 
+(5 years)
+Vice President Marketing and Business Development
+1994  -  1998 
+(5 years)
+Director Publishing Business Unit
+1992  -  1996 
+(5 years)
+Manager of Product Management at Rolm / IBM / Siemens
+1984  -  1992 
 (9 years)
-Member and former Chair of the Massachusetts Commission for the Blind Rehabilitation Council
-Election Officer at City of Boston Election Department
-2008  -  September 2013 
-(5 years 9 months)
-Oversee election activities
-Secretary & Past President
-July 2012  -  July 2013 
+
+Experience
+Engineering Director at Facebook
+December 2009  -  Present
+I support the following teams:
+Ł UI Infrastructure for Web, iOS, and Android
+Ł Design Tools
+Ł Accessibility 
+Ł Relay and JS Performance Infrastructure
+Ł Marketing/Brand Engineering
+I also own the recruiting pipeline for front-end engineers across all platforms.
+Product Designer at Facebook
+June 2007  -  February 2010 
+(2 years 9 months)
+I was the designer on Growth in 2007 and the designer on Ads from 2008 until 2010.  I designed many of
+ Facebook's early ad units and ad management interfaces.
+Products that I designed and implemented:
+Ł New user registration 
+Ł Friend finder 
+Ł Email campaigns
+Ł Ads creation
+Ł Ads management
+Ł Ad units
+Software Engineering Intern at Intuit
+June 2006  -  June 2007 
 (1 year 1 month)
-Malden Rotary Club, which is the oldest continually active service organization in the City of Malden
-Former Member, Malden Planning Board
-January 2002  -  January 2008 
-(6 years 1 month)
-Make decisions on Planning and Development cases for the City of Malden
-Regional Development Manager
+Quickbooks UI
+Software Engineering Intern at LuraTech GmbH
+June 2005  -  September 2005 
+(4 months)
+Built a Windows printer driver.
 Page 
-3
-2006  -  2008 
-(3 years)
-Senior Housing Development
-Board Member
-2006  -  2008 
-(3 years)
-Enhance employment opportunities for persons with disabilities
-Chief Communication Officer
-January 2002  -  December 2006 
-(5 years)
-Direct communications efforts and help run Massachusetts second largest mid-sized bus company
-Municipal Affairs & Public Policy Liasion
-1999  -  2003 
-(5 years)
-Manage and coordinate the Massachusetts State Senate with five cities and towns
-Municipal Affairs & Public Policy
-1998  -  2002 
-(5 years)
-Served as a liaison between five cities and towns and the 3rd Middlesex District
-Municipal Affairs & Public Policy
-1998  -  2002 
-(5 years)
-Direct Communication and outreach efforts, developed and maintained media relationships, create and
- manage PR, Public Affairs and Marketing collateral
-Governor's Office, State Senate
-1996  -  2002 
-(7 years)
-Serve Governor Cellucci as a Correspondence and Constituent Services Aide
-Aide
-1996  -  1998 
-(3 years)
-Assist with Trade mission preparation
+2
 
 Experience
-Partner at HGG Advisors
-October 2015  -  Present
-Finance at Elevate Practices
-October 2015  -  Present
-Audit Manager at HintonBurdick CPAs & Advisors
-January 2014  -  October 2015 
-(1 year 10 months)
-Audit Manager at Deloitte & Touche
-September 2008  -  January 2014 
-(5 years 5 months)
-
+Engineering Manager at Facebook
+February 2012  -  Present
+Building analytics infrastructure for Facebook's data warehouse. I work on problems related to scale, storage
+ and compute efficiency for the analytics infrastructure at Facebook.
+https://developers.facebooklive.com/videos/560/lifting-the-curtain-the-data-infrastructure-behind-facebook-
+apps
+http://gigaom.com/2013/06/06/facebook-unveils-presto-engine-for-querying-250-pb-data-warehouse/
+Principal Development Lead at Microsoft Corporation
+February 2010  -  March 2012 
+(2 years 2 months)
+SQL Server Engine - Workload optimization and Database Management, Scale out solutions
+Senior Development Lead at Microsoft Corporation
+January 2008  -  February 2010 
+(2 years 2 months)
+Bing Search relevance team
+Senior Software Engineer at Microsoft Corporation
+June 2002  -  December 2007 
+(5 years 7 months)
+Worked in the WinFS team on promotion of file properties into structured items. Also was a senior developer
+ in the SQL server database engine on the query plan cache.
+Member of Technical Staff at Oracle
+May 2001  -  May 2002 
+(1 year 1 month)
+Server manageability team. Built workload based advice views for the memory manager.
+Senior Software Engineer at Propel Software Corporation
+February 2001  -  May 2001 
+(4 months)
+Integration of a main memory database into the server of a B2C platform.
 
 Experience
-Graduate Researcher
-2006  -  Present
-Software Engineering Intern at Google
-June 2009  -  August 2009 
-(3 months)
-Software Engineering Intern at Google
-2008  -  2008 
-(1 year)
-Software Developer at eAsic
-2004  -  2006 
-(3 years)
-Junior Software Developer at ASIC Art
-September 2004  -  April 2005 
-(8 months)
+Illustrator
+September 2016  -  Present
+Create weekly illustrations for the Boston public radio show Open Source with Christopher Lydon.
+ Illustrations range from on-site drawings to conceptual, editorial illustrations and can be viewed at http://
+www.coyneworks.com/illustration/#/editorial/ and http://www.coyneworks.com/illustration/#/live-drawing/.
+ Also contribute cultural reviews to the weekly newsletter and help manage the social media accounts.
+Writer/Illustrator
+2013  -  Present
+Work with a variety of individual and corporate clients on projects including book illustration, editorial
+ writing and illustration, portraits/personal commissions, and graphic design work. For more information,
+ visit www.Coyneworks.com.
+Content Writer at Gradesavers
+2013  -  2014 
+(2 years)
+Researched and wrote full-length study guides on graphic novels, nonfiction work, and poetry collections.
+Research Assistant at The Forsyth Institute
+June 2011  -  August 2013 
+(2 years 3 months)
+Assistant to Dr. Toshihisa Kawai, DDS, PhD, at the Forsyth Institute, a dental research clinic and laboratory
+ affiliated with Harvard School of Dental Medicine.
+Responsibilities: editing scientific manuscripts and liaising with scientific journals to streamline publication;
+ assisting visiting Japanese researchers with immigration/transition into Cambridge and the laboratory;
+ managing the day-to-day operation of the laboratory; translating documents/correspondence from JP->EN;
+ assisting Japanese researchers with their English language education.
+Resident Director
+May 2010  -  August 2010 
+(4 months)
+-Served as the in-country Resident Director of a Japanese language program in Kyoto, Japan.  
+-Worked with American college and graduate students who were the recipients of full scholarships from the
+ State Department to study Japanese in an intensive two-month program.  
+Page 
+2
+-Arranged weekly cultural excursions to areas of interest in and around Kyoto, as well as a week-long
+ countrywide tour including Hiroshima, Yokohama, and Tokyo.  
+-Assisted students with various aspects of cultural adjustment and language learning while working closely
+ with local staff at Doshisha University.
+Language Teacher
+August 2007  -  August 2009 
+(2 years 1 month)
+-Instructed approximately 2,000 junior high school and 500 kindergarten students in English language and
+ conversation.  
+-Organized and implemented original and effective lesson plans, often incorporating current international
+ news events to increase students™ global awareness. 
+-Coordinated promotional events for the city of Kurobe.
+*Honors: 2009 Toyama Honorary Friendly Envoy Award.  Awarded by the Toyama Prefectural Government
+ in July, 2009, for promotion of tourism in Toyama through international festivals.
+Public Relations Assistant at Portland Museum of Art
+May 2006  -  August 2006 
+(4 months)
+-Compiled press releases about new exhibits
+-Distributed information to museum members and potential donors
+-Promoted exhibits to the press
+Assistant to the Professor of Religion
+January 2006  -  April 2006 
+(4 months)
+Preparing coursework weekly; writing up exams; coordinating visits to local sites
+
+Experience
+Principal Software Engineer
+May 2017  -  Present
+Machine learning / deep learning for ranking
+Machine translation 
+Automatic speech recognition
+Speech synthesis
+Applied research in deep learning in general
+Senior Staff Software Engineer
+October 2014  -  April 2017 
+(2 years 7 months)
+Ranking
+Machine learning for ranking
+Deep learning in general
+Staff Software Engineer at Google
+October 2012  -  September 2014 
+(2 years)
+Google search ranking
+Senior Software Engineer at Google
+October 2010  -  September 2012 
+(2 years)
+Software Engineer at Google
+September 2008  -  September 2010 
+(2 years 1 month)
+Database Support Engineer at Microsoft
+July 2001  -  August 2004 
+(3 years 2 months)
